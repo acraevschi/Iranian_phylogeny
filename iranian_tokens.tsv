@@ -1,0 +1,2228 @@
+ID	DOCULECT	CONCEPT	IPA	VARIANTS	TOKENS
+1	Bakhtiyari	1SG	mo		m o
+2	Balochi	1SG	man		m a n
+3	Gilaki	1SG	mʔn		m ʔ n
+4	Judeo-Tati	1SG	me		m e
+5	Kumzari	1SG	meh		m e h
+6	Luri	1SG	ma		m a
+7	Modern_Persian	1SG	man		m a n
+8	Ormuri	1SG	az		a z
+9	Ossetic_Iron	1SG	æz		æ z
+10	Parachi	1SG	mon	mer	m o n
+11	Shughni	1SG	wuz		w u z
+12	Taleshi	1SG	az		a z
+13	Wakhi	1SG	wuz		w u z
+14	Waziri	1SG	ze		z e
+15	Yaghnobi	1SG	man		m a n
+16	Zazaki	1SG	ez	min	e z
+17	SEK 	1SG	ɛz	mɨn	ɛ z
+18	SK	1SG	ɛz	mɨn	ɛ z
+19	NK	1SG	ɛz	mɨ(n)	ɛ z
+20	SWK	1SG	ɛz	mɨ(n)	ɛ z
+21	NWK	1SG	æz	mɨ(n)	æ z
+2013	Zebaki	1SG	az		a z
+2056	Ishkashimi	1SG	az		a z
+2130	Pashto	1SG	zə		z ə
+22	Bakhtiyari	2SG	to		t o
+23	Balochi	2SG	taw		t a w
+24	Gilaki	2SG	tu		t u
+25	Judeo-Tati	2SG	tu		t u
+26	Kumzari	2SG	to		t o
+27	Luri	2SG	ty		t y
+28	Modern_Persian	2SG	to		t o
+29	Ormuri	2SG	tu	tos	t u
+30	Ossetic_Iron	2SG	dɨ	sɨmax	d ɨ
+31	Parachi	2SG	to		t o
+32	Shughni	2SG	tu		t u
+33	Taleshi	2SG	tɨ	ʃɨmə	t ɨ
+34	Wakhi	2SG	tu		t u
+35	Waziri	2SG	tus	tose	t u s
+36	Yaghnobi	2SG	tu		t u
+37	Zazaki	2SG	to		t o
+38	SEK 	2SG	tu		t u
+39	SK	2SG	tɨ	tæ	t ɨ
+40	NK	2SG	tu	tɛ	t u
+41	SWK	2SG	tu	tɛ	t u
+42	NWK	2SG	tu	tæ	t u
+2014	Zebaki	2SG	to		t o
+2054	Ishkashimi	2SG	wa		w a
+2131	Pashto	2SG	tə		t ə
+43	Bakhtiyari	3SG	ho		h o
+44	Balochi	3SG	ʔa		ʔ a
+45	Gilaki	3SG	un	an	u n
+46	Judeo-Tati	3SG	u		u
+47	Kumzari	3SG	je		j e
+48	Luri	3SG	tu		t u
+49	Modern_Persian	3SG	u		u
+50	Ormuri	3SG	ʔa	a	ʔ a
+51	Ossetic_Iron	3SG	uɨj	uyʔ	u ɨ j
+52	Parachi	3SG	o		o
+53	Shughni	3SG	ju		j u
+54	Taleshi	3SG	əv		ə v
+55	Wakhi	3SG	jaw		j a w
+56	Waziri	3SG	agʔa		a g ʔ a
+57	Yaghnobi	3SG	ax		a x
+58	Zazaki	3SG	o		o
+59	SEK 	3SG	ɛw		ɛ w
+60	SK	3SG	ɛw	wi-we	ɛ w
+61	NK	3SG	ɛw	wi-we	ɛ w
+62	SWK	3SG	hɛw	wi - we	h ɛ w
+63	NWK	3SG	æw	(æ)wi - (æ)we	æ w
+2015	Zebaki	3SG	ao		a o
+2132	Pashto	3SG	je	e	j e
+64	Bakhtiyari	ant	mur		m u r
+65	Balochi	ant	mor		m o r
+66	Gilaki	ant	mur		m u r
+67	Judeo-Tati	ant	muʒine		m u ʒ i n e
+68	Kumzari	ant	giraʁ		g i r a ʁ
+69	Modern_Persian	ant	murʧa		m u r ʧ a
+70	Ormuri	ant	murcʧa		m u r c ʧ a
+71	Ossetic_Iron	ant	mældzɨg		m æ l d z ɨ g
+72	Parachi	ant	murʧ		m u r ʧ
+73	Shughni	ant	murʒak		m u r ʒ a k
+74	Taleshi	ant	muʒ		m u ʒ
+75	Wakhi	ant	mirpriʧ		m i r p r i ʧ
+76	Yaghnobi	ant	murʧak		m u r ʧ a k
+77	Zazaki	ant	montsle		m o n t s l e
+78	SEK 	ant	mery		m e r y
+79	SK	ant	miro		m i r o
+80	NK	ant	mɨrʤolɛk		m ɨ r ʤ o l ɛ k
+81	SWK	ant	morɨ		m o r ɨ
+82	NWK	ant	gera		g e r a
+2133	Pashto	ant	murʧa		m u r ʧ a
+83	Bakhtiyari	ash	hol	hakeʔtar	h o l
+84	Balochi	ash	pʔur		p ʔ u r
+85	Gilaki	ash	xak		x a k
+86	Judeo-Tati	ash	xokister		x o k i s t e r
+87	Kumzari	ash	xariʃtin		x a r i ʃ t i n
+88	Modern_Persian	ash	xakestar		x a k e s t a r
+89	Ormuri	ash	xokistar	yanak	x o k i s t a r
+90	Ossetic_Iron	ash	ærtxutæg		æ r t x u t æ g
+91	Parachi	ash	bhoʔ		b h o ʔ
+92	Shughni	ash	ʔir		ʔ i r
+93	Taleshi	ash	xok		x o k
+94	Wakhi	ash	perg		p e r g
+95	Waziri	ash	tra		t r a
+96	Yaghnobi	ash	xoxistar		x o x i s t a r
+97	Zazaki	ash	wel		w e l
+98	SEK 	ash	xuli		x u l i
+99	SK	ash	xwɛli		x w ɛ l i
+100	NK	ash	xwɛli		x w ɛ l i
+101	SWK	ash	arɨ		a r ɨ
+102	NWK	ash	xæli		x æ l i
+2035	Ishkashimi	ash	usur		u s u r
+2134	Pashto	ash	ira		i r a
+103	Bakhtiyari	back	gorde		g o r d e
+104	Balochi	back	pʔuʔt		p ʔ u ʔ t
+105	Gilaki	back	pʔs		p ʔ s
+106	Judeo-Tati	back	pesovo		p e s o v o
+107	Kumzari	back	kamar		k a m a r
+108	Luri	back	kamar	gorda	k a m a r
+109	Modern_Persian	back	poʔt		p o ʔ t
+110	Ormuri	back	pets	puʃt	p e t s
+111	Ossetic_Iron	back	fæsontæ	 cʔyldym	f æ s o n t æ
+112	Parachi	back	peʃput		p e ʃ p u t
+113	Shughni	back	dam		d a m
+114	Taleshi	back	pas		p a s
+115	Wakhi	back	dam	urqa	d a m
+116	Waziri	back	ʔamzai		ʔ a m z a i
+117	Yaghnobi	back	arka	puʔt	a r k a
+118	Zazaki	back	paʔti		p a ʔ t i
+119	SEK 	back	pɨʃt		p ɨ ʃ t
+120	SK	back	pɨʃt		p ɨ ʃ t
+121	NK	back	pɨʃt		p ɨ ʃ t
+122	SWK	back	pɨʃt		p ɨ ʃ t
+123	NWK	back	pɔʃ		p ɔ ʃ
+2016	Zebaki	back	dam	med	d a m
+2036	Ishkashimi	back	kamuk	arqa	k a m u k
+124	Bakhtiyari	big	gap		g a p
+125	Balochi	big	mazaan	maz en	m a z a a n
+126	Gilaki	big	əzim	buzurg	ə z i m
+127	Judeo-Tati	big	dyryjd		d y r y j d
+128	Kumzari	big	gap		g a p
+129	Luri	big	gap		g a p
+130	Modern_Persian	big	bozorg		b o z o r g
+131	Ormuri	big	stur	ustur	s t u r
+132	Ossetic_Iron	big	stɨr		s t ɨ r
+133	Parachi	big	gand	ferimɨn	g a n d
+134	Shughni	big	ʔulla	xədir	ʔ u l l a
+135	Taleshi	big	ʒol	nəhəng	ʒ o l
+136	Wakhi	big	lup		l u p
+137	Waziri	big	ster		s t e r
+138	Yaghnobi	big	katta		k a t t a
+139	Zazaki	big	gird	xiʔn	g i r d
+140	SEK 	big	mɛzɨn		m ɛ z ɨ n
+141	SK	big	mɛzɨn		m ɛ z ɨ n
+142	NK	big	mɛzɨn		m ɛ z ɨ n
+143	SWK	big	mɛzɨn		m ɛ z ɨ n
+144	NWK	big	gɨr		g ɨ r
+2017	Zebaki	big	kata		k a t a
+2037	Ishkashimi	big	katta	ʒəʃt	k a t t a
+2135	Pashto	big	zbərg	ghat	z b ə r g
+145	Bakhtiyari	bird	balende		b a l e n d e
+146	Balochi	bird	murgʔ		m u r g ʔ
+147	Gilaki	bird	murʔ		m u r ʔ
+148	Judeo-Tati	bird	parande		p a r a n d e
+149	Kumzari	bird	ter		t e r
+150	Luri	bird	paranda		p a r a n d a
+151	Modern_Persian	bird	morgʔ	parande	m o r g ʔ
+152	Ormuri	bird	bubititi		b u b i t i t i
+153	Ossetic_Iron	bird	margʔ		m a r g ʔ
+154	Parachi	bird	bɨdɨr		b ɨ d ɨ r
+155	Shughni	bird	paranda		p a r a n d a
+156	Taleshi	bird	kiʔa		k i ʔ a
+157	Wakhi	bird	parinda	bakar	p a r i n d a
+158	Waziri	bird	margʔai		m a r g ʔ a i
+159	Yaghnobi	bird	paranda	ʔondor	p a r a n d a
+160	Zazaki	bird	miriʔik	teyr	m i r i ʔ i k
+161	SEK 	bird	cycɨk		c y c ɨ k
+162	SK	bird	ʧuk		ʧ u k
+163	NK	bird	ʧuʧɨk		ʧ u ʧ ɨ k
+164	SWK	bird	ʧuk		ʧ u k
+165	NWK	bird	ʧɨʧuk		ʧ ɨ ʧ u k
+2018	Zebaki	bird	parinda		p a r i n d a
+2104	Ishkashimi	bird	parinda		p a r i n d a
+2136	Pashto	bird	murgh		m u r g h
+166	Bakhtiyari	bite	gam		g a m
+167	Balochi	bite	waragʔ	wartʔa	w a r a g ʔ
+168	Gilaki	bite	gaz	gaz zeen	g a z
+169	Judeo-Tati	bite	gezire		g e z i r e
+170	Kumzari	bite	xaʔadiʔ		x a ʔ a d i ʔ
+171	Luri	bite	kap	gereta	k a p
+172	Modern_Persian	bite	dandan		d a n d a n
+173	Ossetic_Iron	bite	xætsɨn		x æ t s ɨ n
+174	Parachi	bite	gas		g a s
+175	Shughni	bite	pirend		p i r e n d
+176	Taleshi	bite	vijarde		v i j a r d e
+177	Wakhi	bite	denduk	gup di	d e n d u k
+178	Waziri	bite	ʔiʔel		ʔ i ʔ e l
+179	Yaghnobi	bite	kan	xiʔoy	k a n
+180	Zazaki	bite	perajiʃ		p e r a j i ʃ
+181	SEK 	bite	lɛq		l ɛ q
+182	SK	bite	gɛz		g ɛ z
+183	NK	bite	kɨt	gɛz kɨrɨn	k ɨ t
+184	SWK	bite	gæz		g æ z
+185	NWK	bite	gæz		g æ z
+2137	Pashto	bite	ʧiʧel		ʧ i ʧ e l
+186	Bakhtiyari	bitter	tahl		t a h l
+187	Balochi	bitter	taxl		t a x l
+188	Gilaki	bitter	təlx		t ə l x
+189	Judeo-Tati	bitter	texl		t e x l
+190	Kumzari	bitter	tahl		t a h l
+191	Modern_Persian	bitter	talɣ		t a l ɣ
+192	Ormuri	bitter	teʃ		t e ʃ
+193	Ossetic_Iron	bitter	mast	karz	m a s t
+194	Parachi	bitter	tɨzi		t ɨ z i
+195	Shughni	bitter	tsax	tsix	t s a x
+196	Taleshi	bitter	təlx	tel 	t ə l x
+197	Wakhi	bitter	talx		t a l x
+198	Yaghnobi	bitter	talx		t a l x
+199	Zazaki	bitter	taʕl		t a ʕ l
+200	SEK 	bitter	tiʒ		t i ʒ
+201	SK	bitter	tuʒ		t u ʒ
+202	NK	bitter	tuʒ		t u ʒ
+203	SWK	bitter	tuʒ		t u ʒ
+204	NWK	bitter	tuʒ		t u ʒ
+2091	Ishkashimi	bitter	truʃ		t r u ʃ
+2138	Pashto	bitter	zvəg		z v ə g
+205	Bakhtiyari	black	ʔah		ʔ a h
+206	Balochi	black	sijah		s i j a h
+207	Gilaki	black	sija		s i j a
+208	Judeo-Tati	black	sijeh		s i j e h
+209	Kumzari	black	sijeh		s i j e h
+210	Luri	black	meʔki		m e ʔ k i
+211	Modern_Persian	black	siah		s i a h
+212	Ormuri	black	ɣras		ɣ r a s
+213	Ossetic_Iron	black	saw		s a w
+214	Parachi	black	paddo		p a d d o
+215	Shughni	black	tor	siyo	t o r
+216	Taleshi	black	sio		s i o
+217	Wakhi	black	su	sio	s u
+218	Waziri	black	tor		t o r
+219	Yaghnobi	black	ʔow	sijoh	ʔ o w
+220	Zazaki	black	sij	sya	s i j
+221	SEK 	black	ɹɛʃ		ɹ ɛ ʃ
+222	SK	black	ɹɛʃ		ɹ ɛ ʃ
+223	NK	black	ɹɛʃ		ɹ ɛ ʃ
+224	SWK	black	ɹɛʃ		ɹ ɛ ʃ
+225	NWK	black	ɹæʃ		ɹ æ ʃ
+2038	Ishkashimi	black	ʔu		ʔ u
+2139	Pashto	black	sijah		s i j a h
+226	Bakhtiyari	blood	hin		h i n
+227	Balochi	blood	hon		h o n
+228	Gilaki	blood	xun		x u n
+229	Judeo-Tati	blood	xuni		x u n i
+230	Kumzari	blood	xuwaʔm		x u w a ʔ m
+231	Luri	blood	xyn		x y n
+232	Modern_Persian	blood	xun		x u n
+233	Ormuri	blood	in	ʔun	i n
+234	Ossetic_Iron	blood	tug		t u g
+235	Parachi	blood	hin		h i n
+236	Shughni	blood	wixin	xun	w i x i n
+237	Taleshi	blood	xun		x u n
+238	Wakhi	blood	xun	wusen	x u n
+239	Waziri	blood	wina		w i n a
+240	Yaghnobi	blood	waxin	xun	w a x i n
+241	Zazaki	blood	guni		g u n i
+242	SEK 	blood	xin		x i n
+243	SK	blood	xwin		x w i n
+244	NK	blood	xun		x u n
+245	SWK	blood	xun		x u n
+246	NWK	blood	xyn		x y n
+2039	Ishkashimi	blood	wen		w e n
+2140	Pashto	blood	vina		v i n a
+247	Bakhtiyari	blow	bad		b a d
+248	Balochi	blow	kaʔagʔ	xaʔta	k a ʔ a g ʔ
+249	Gilaki	blow	dəməstən	vəsen	d ə m ə s t ə n
+250	Judeo-Tati	blow	nefes		n e f e s
+251	Kumzari	blow	uff		u f f
+252	Luri	blow	bad		b a d
+253	Modern_Persian	blow	vazidan		v a z i d a n
+254	Ossetic_Iron	blow	dɨmɨn		d ɨ m ɨ n
+255	Parachi	blow	pxi		p x i
+256	Shughni	blow	puf		p u f
+257	Taleshi	blow	vaʃte	pu 	v a ʃ t e
+258	Wakhi	blow	kulumut	mest	k u l u m u t
+259	Waziri	blow	ʔaledel		ʔ a l e d e l
+260	Yaghnobi	blow	puf		p u f
+261	SEK 	blow	pɨf		p ɨ f
+262	SK	blow	pɛqandɨn		p ɛ q a n d ɨ n
+263	NK	blow	pɨf		p ɨ f
+264	SWK	blow	pɨfe		p ɨ f e
+265	NWK	blow	puf		p u f
+2105	Ishkashimi	blow	puf		p u f
+2141	Pashto	blow	pukavəl	ʧaledəl	p u k a v ə l
+266	Bakhtiyari	bone	hast	ostoxoʔn	h a s t
+267	Balochi	bone	had		h a d
+268	Gilaki	bone	xaʔ		x a ʔ
+269	Judeo-Tati	bone	osdqu		o s d q u
+270	Kumzari	bone	xar		x a r
+271	Luri	bone	ʔossoxun		ʔ o s s o x u n
+272	Modern_Persian	bone	ostoxan		o s t o x a n
+273	Ormuri	bone	stoʔan		s t o ʔ a n
+274	Ossetic_Iron	bone	stæg		s t æ g
+275	Parachi	bone	hadd		h a d d
+276	Shughni	bone	sitxun		s i t x u n
+277	Taleshi	bone	asə		a s ə
+278	Wakhi	bone	jusc	ustuxon	j u s c
+279	Waziri	bone	hadikai		h a d i k a i
+280	Yaghnobi	bone	sitak		s i t a k
+281	Zazaki	bone	este		e s t e
+282	SEK 	bone	hestɨk		h e s t ɨ k
+283	SK	bone	hæstu		h æ s t u
+284	NK	bone	hɛsti		h ɛ s t i
+285	SWK	bone	hɛstɨ		h ɛ s t ɨ
+286	NWK	bone	hasti		h a s t i
+2040	Ishkashimi	bone	wastuk		w a s t u k
+2142	Pashto	bone	had		h a d
+287	Bakhtiyari	breast	pestoʔn		p e s t o ʔ n
+288	Balochi	breast	delband	gwar	d e l b a n d
+289	Gilaki	breast	sinʔ		s i n ʔ
+290	Judeo-Tati	breast	sine		s i n e
+291	Kumzari	breast	sino		s i n o
+292	Luri	breast	ʔir		ʔ i r
+293	Modern_Persian	breast	pistan		p i s t a n
+294	Ormuri	breast	tsik		t s i k
+295	Ossetic_Iron	breast	dzidzi		d z i d z i
+296	Parachi	breast	sina		s i n a
+297	Shughni	breast	sina	biʃ	s i n a
+298	Taleshi	breast	pɨʃton	sinə	p ɨ ʃ t o n
+299	Wakhi	breast	sina	bap	s i n a
+300	Yaghnobi	breast	vuna	cic	v u n a
+301	Zazaki	breast	sene	virar	s e n e
+302	SEK 	breast	sing		s i n g
+303	SK	breast	sɨng		s ɨ n g
+304	NK	breast	sɨng		s ɨ n g
+305	SWK	breast	sing		s i n g
+306	NWK	breast	sɨng		s ɨ n g
+2019	Zebaki	breast	bar		b a r
+2041	Ishkashimi	breast	peʃbar	cici	p e ʃ b a r
+2143	Pashto	breast	bar		b a r
+307	Bakhtiyari	burn	sohden		s o h d e n
+308	Balochi	burn	balagʔ		b a l a g ʔ
+309	Gilaki	burn	soxt		s o x t
+310	Judeo-Tati	burn	suxde		s u x d e
+311	Kumzari	burn	haraqa		h a r a q a
+312	Luri	burn	sota		s o t a
+313	Modern_Persian	burn	suxtan		s u x t a n
+314	Ormuri	burn	bras		b r a s
+315	Ossetic_Iron	burn	sudzɨn		s u d z ɨ n
+316	Parachi	burn	tʔew		t ʔ e w
+317	Shughni	burn	suzax		s u z a x
+318	Taleshi	burn	syte		s y t e
+319	Wakhi	burn	tʔau		t ʔ a u
+320	Waziri	burn	baledel	swel	b a l e d e l
+321	Yaghnobi	burn	suʔ		s u ʔ
+322	Zazaki	burn	veʔajiʔ		v e ʔ a j i ʔ
+323	SEK 	burn	sotɨn		s o t ɨ n
+324	SK	burn	ʃɛwɨtandɨn		ʃ ɛ w ɨ t a n d ɨ n
+325	NK	burn	ʃɛwɨtandɨn		ʃ ɛ w ɨ t a n d ɨ n
+326	SWK	burn	ʃɛwɨtandɨn		ʃ ɛ w ɨ t a n d ɨ n
+327	NWK	burn	ʃɛwɨtɔndɨn		ʃ ɛ w ɨ t ɔ n d ɨ n
+2107	Ishkashimi	burn	təv		t ə v
+2144	Pashto	burn	baledəl		b a l e d ə l
+328	Bakhtiyari	carry	kerden	menʕe beɢal borden	k e r d e n
+329	Balochi	carry	bar	barag	b a r
+330	Gilaki	carry	bərdən	rənʒ	b ə r d ə n
+331	Judeo-Tati	carry	berde	owurde	b e r d e
+332	Kumzari	carry	ber		b e r
+333	Modern_Persian	carry	haml		h a m l
+334	Ossetic_Iron	carry	xæsɨn		x æ s ɨ n
+335	Parachi	carry	bar		b a r
+336	Shughni	carry	jos	jod	j o s
+337	Taleshi	carry	bardə		b a r d ə
+338	Yaghnobi	carry	var	xaʃ	v a r
+339	Zazaki	carry	bəno	berdiʃ	b ə n o
+340	SEK 	carry	keʃan		k e ʃ a n
+341	SK	carry	kɨʃandɨn	hɨlgɨrtɨn	k ɨ ʃ a n d ɨ n
+342	NK	carry	kɨʃandɨn		k ɨ ʃ a n d ɨ n
+343	SWK	carry	kɨʃandɨn		k ɨ ʃ a n d ɨ n
+344	NWK	carry	kɨʃandɨn		k ɨ ʃ a n d ɨ n
+2145	Pashto	carry	kaʃawel		k a ʃ a w e l
+345	Bakhtiyari	child	bacʔe		b a c ʔ e
+346	Balochi	child	ʔux		ʔ u x
+347	Gilaki	child	zahak		z a h a k
+348	Judeo-Tati	child	ʔail		ʔ a i l
+349	Kumzari	child	rok	ditk	r o k
+350	Luri	child	bec		b e c
+351	Modern_Persian	child	baʔe		b a ʔ e
+352	Ormuri	child	woɣkaj	guru	w o ɣ k a j
+353	Ossetic_Iron	child	sɨvælon	sabi	s ɨ v æ l o n
+354	Parachi	child	baʔi	ɣurok	b a ʔ i
+355	Shughni	child	baʔa	kudak	b a ʔ a
+356	Taleshi	child	xʔrdan		x ʔ r d a n
+357	Wakhi	child	za	zeman	z a
+358	Waziri	child	workai		w o r k a i
+359	Yaghnobi	child	pulla	baʔa	p u l l a
+360	Zazaki	child	qeʔek	gede	q e ʔ e k
+361	SEK 	child	bɨʧyk		b ɨ ʧ y k
+362	SK	child	zaɹok		z a ɹ o k
+363	NK	child	zaru	zar	z a r u
+364	SWK	child	zar	zark	z a r
+365	NWK	child	del		d e l
+2020	Zebaki	child	kut		k u t
+2042	Ishkashimi	child	zaman	telf	z a m a n
+2146	Pashto	child	ʧurʧurak		ʧ u r ʧ u r a k
+366	Bakhtiyari	come	oʔaʔden	ʔaʔden	o ʔ a ʔ d e n
+367	Balochi	come	agʔ	axta	a g ʔ
+368	Gilaki	come	amon		a m o n
+369	Judeo-Tati	come	veromore		v e r o m o r e
+370	Kumzari	come	hamed		h a m e d
+371	Modern_Persian	come	amadan		a m a d a n
+372	Ormuri	come	dzok	gidi	d z o k
+373	Ossetic_Iron	come	tsæuɨn		t s æ u ɨ n
+374	Parachi	come	ʒe		ʒ e
+375	Shughni	come	jad		j a d
+376	Taleshi	come	ma		m a
+377	Wakhi	come	wezi		w e z i
+378	Waziri	come	rotlel		r o t l e l
+379	Yaghnobi	come	vow		v o w
+380	Zazaki	come	aməj		a m ə j
+381	SEK 	come	hatɨn		h a t ɨ n
+382	SK	come	hatɨn		h a t ɨ n
+383	NK	come	hatɨn		h a t ɨ n
+384	SWK	come	hatɨn		h a t ɨ n
+385	NWK	come	hɔtɨn		h ɔ t ɨ n
+2021	Zebaki	come	is		i s
+2043	Ishkashimi	come	agad		a g a d
+2147	Pashto	come	ratləl		r a t l ə l
+386	Bakhtiyari	crush/grind	telniden		t e l n i d e n
+387	Balochi	crush/grind	droʃag	ɖalag	d r o ʃ a g
+388	Gilaki	crush/grind	zir	dəkəlanen	z i r
+389	Judeo-Tati	crush/grind	xjel	ʃiʃire	x j e l
+390	Kumzari	crush/grind	bumir		b u m i r
+391	Modern_Persian	crush/grind	ɣwurd	saʕidan	ɣ w u r d
+392	Ormuri	crush/grind	nɔʃra		n ɔ ʃ r a
+393	Ossetic_Iron	crush/grind	læmarɨn	sændɨn	l æ m a r ɨ n
+394	Parachi	crush/grind	kut		k u t
+395	Shughni	crush/grind	jan	sew	j a n
+396	Taleshi	crush/grind	hope	bərbod	h o p e
+397	Wakhi	crush/grind	ʂiɣ		ʂ i ɣ
+398	Yaghnobi	crush/grind	ʧuk	reza kyn	ʧ u k
+399	Zazaki	crush/grind	kwatiʃ	ploxnajiʃ	k w a t i ʃ
+400	SEK 	crush/grind	pɛlʧɨqandɨn		p ɛ l ʧ ɨ q a n d ɨ n
+401	SK	crush/grind	pɨrʧɨqandɨn		p ɨ r ʧ ɨ q a n d ɨ n
+402	NK	crush/grind	pɛlʧɨqandɨn		p ɛ l ʧ ɨ q a n d ɨ n
+403	SWK	crush/grind	pɛlʧɨqandɨn		p ɛ l ʧ ɨ q a n d ɨ n
+404	NWK	crush/grind	penandɨn		p e n a n d ɨ n
+2097	Ishkashimi	crush/grind	ʃak		ʃ a k
+2148	Pashto	crush/grind	majdawəl		m a j d a w ə l
+405	Bakhtiyari	cry/weep	gerejʋesten		g e r e j ʋ e s t e n
+406	Balochi	cry/weep	grewag	anzar	g r e w a g
+407	Gilaki	cry/weep	gərjə	zar kudən	g ə r j ə
+408	Judeo-Tati	cry/weep	girisde	hirke soxde	g i r i s d e
+409	Kumzari	cry/weep	girja		g i r j a
+410	Modern_Persian	cry/weep	giristan	gerje kardan	g i r i s t a n
+411	Ormuri	cry/weep	ʃu		ʃ u
+412	Ossetic_Iron	cry/weep	kæwɨn	tjizɨn	k æ w ɨ n
+413	Parachi	cry/weep	nara	ʃur	n a r a
+414	Shughni	cry/weep	naw	rinewd	n a w
+415	Taleshi	cry/weep	bəme		b ə m e
+416	Yaghnobi	cry/weep	roj	wak	r o j
+417	Zazaki	cry/weep	beɾmajiʃ	həɾsi kəɾdɨʃ	b e ɾ m a j i ʃ
+418	SEK 	cry/weep	gɨrɨjan		g ɨ r ɨ j a n
+419	SK	cry/weep	gɨri		g ɨ r i
+420	NK	cry/weep	gɨrin		g ɨ r i n
+421	SWK	cry/weep	gɨri		g ɨ r i
+422	NWK	cry/weep	gɨrin		g ɨ r i n
+2149	Pashto	cry/weep	ʒarəl	vahir	ʒ a r ə l
+423	Bakhtiyari	do	kerden		k e r d e n
+424	Balochi	do	kanag	sazag	k a n a g
+425	Gilaki	do	kudən		k u d ə n
+426	Judeo-Tati	do	soxde		s o x d e
+427	Kumzari	do	kin	gis	k i n
+428	Modern_Persian	do	kard		k a r d
+429	Ormuri	do	kajek		k a j e k
+430	Ossetic_Iron	do	kænɨn	arazɨn	k æ n ɨ n
+431	Parachi	do	kan		k a n
+432	Shughni	do	ʧidow	kin	ʧ i d o w
+433	Taleshi	do	karde	kə	k a r d e
+434	Wakhi	do	car	goɣ	c a r
+435	Yaghnobi	do	kun		k u n
+436	Zazaki	do	kəɾdɨʃ		k ə ɾ d ɨ ʃ
+437	SEK 	do	kɨrɨn	ʧekɨrɨn	k ɨ r ɨ n
+438	SK	do	kɨrɨn	çekɨrɨn	k ɨ r ɨ n
+439	NK	do	kɨrɨn	ʧekɨrɨn	k ɨ r ɨ n
+440	SWK	do	kɨrɨn	çekɨrɨn	k ɨ r ɨ n
+441	NWK	do	kɨrɨn	çekɨrɨn	k ɨ r ɨ n
+2098	Ishkashimi	do	kun	kul	k u n
+2121	Zebaki	do	kanak	kunam	k a n a k
+2150	Pashto	do	kawəl		k a w ə l
+442	Bakhtiyari	dog	saʔ		s a ʔ
+443	Balochi	dog	sag		s a g
+444	Gilaki	dog	seg		s e g
+445	Judeo-Tati	dog	seg		s e g
+446	Kumzari	dog	sogʔ		s o g ʔ
+447	Luri	dog	sag		s a g
+448	Modern_Persian	dog	sag		s a g
+449	Ormuri	dog	kuʔuk	spuk	k u ʔ u k
+450	Ossetic_Iron	dog	kuɨdz		k u ɨ d z
+451	Parachi	dog	espo	kuʔuk	e s p o
+452	Shughni	dog	kud		k u d
+453	Taleshi	dog	ʔspa		ʔ s p a
+454	Wakhi	dog	suc		s u c
+455	Waziri	dog	spai		s p a i
+456	Yaghnobi	dog	kut		k u t
+457	Zazaki	dog	kutik		k u t i k
+458	SEK 	dog	sɛ		s ɛ
+459	SK	dog	ṣɛ		ṣ ɛ
+460	NK	dog	kuʧɨk	sɛ	k u ʧ ɨ k
+461	SWK	dog	kuʧɨk		k u ʧ ɨ k
+462	NWK	dog	sɔ	kudɨk	s ɔ
+2022	Zebaki	dog	ked		k e d
+2044	Ishkashimi	dog	kud		k u d
+2151	Pashto	dog	spaj		s p a j
+463	Bakhtiyari	drink	xarden		x a r d e n
+464	Balochi	drink	waragʔ	wartʔa	w a r a g ʔ
+465	Gilaki	drink	xur		x u r
+466	Judeo-Tati	drink	xurde		x u r d e
+467	Kumzari	drink	xordiʔ		x o r d i ʔ
+468	Luri	drink	xarda		x a r d a
+469	Modern_Persian	drink	nuʔidan		n u ʔ i d a n
+470	Ormuri	drink	xraxuluk		x r a x u l u k
+471	Ossetic_Iron	drink	nuazun		n u a z u n
+472	Parachi	drink	ʃup		ʃ u p
+473	Shughni	drink	berez	qil ʔidow	b e r e z
+474	Taleshi	drink	ʔum		ʔ u m
+475	Wakhi	drink	pev	puw	p e v
+476	Waziri	drink	tʔel		t ʔ e l
+477	Yaghnobi	drink	ʔav		ʔ a v
+478	Zazaki	drink	ʔimitiʔ		ʔ i m i t i ʔ
+479	SEK 	drink	xarɨnɛwɛ		x a r ɨ n ɛ w ɛ
+480	SK	drink	vɛxwarɨn		v ɛ x w a r ɨ n
+481	NK	drink	vɛxwarɨn		v ɛ x w a r ɨ n
+482	SWK	drink	vɛxwarɨn		v ɛ x w a r ɨ n
+483	NWK	drink	vɛxɔrɨn		v ɛ x ɔ r ɨ n
+2110	Ishkashimi	drink	pɜv		p ɜ v
+2152	Pashto	drink	tskəl		t s k ə l
+484	Bakhtiyari	ear	guʔ		g u ʔ
+485	Balochi	ear	goʔ		g o ʔ
+486	Gilaki	ear	guʃ		g u ʃ
+487	Judeo-Tati	ear	quloq		q u l o q
+488	Kumzari	ear	goʔ		g o ʔ
+489	Luri	ear	goʔ		g o ʔ
+490	Modern_Persian	ear	guʔ		g u ʔ
+491	Ormuri	ear	goi		g o i
+492	Ossetic_Iron	ear	xʔus		x ʔ u s
+493	Parachi	ear	gu		g u
+494	Shughni	ear	ʔug		ʔ u g
+495	Taleshi	ear	guʃ		g u ʃ
+496	Wakhi	ear	jis		j i s
+497	Waziri	ear	gʔoʑ		g ʔ o ʑ
+498	Yaghnobi	ear	guʔ		g u ʔ
+499	Zazaki	ear	goʔ		g o ʔ
+500	SEK 	ear	guh		g u h
+501	SK	ear	guh		g u h
+502	NK	ear	go		g o
+503	SWK	ear	guh		g u h
+504	NWK	ear	guʧ	guʧɨk	g u ʧ
+2023	Zebaki	ear	gal		g a l
+2045	Ishkashimi	ear	gol		g o l
+2153	Pashto	ear	ghvaʒ		g h v a ʒ
+505	Bakhtiyari	eat	xarden		x a r d e n
+506	Balochi	eat	waragʔ	wartʔa	w a r a g ʔ
+507	Gilaki	eat	xurdʔn		x u r d ʔ n
+508	Judeo-Tati	eat	xurde		x u r d e
+509	Kumzari	eat	xor		x o r
+510	Luri	eat	xarda		x a r d a
+511	Modern_Persian	eat	xordan		x o r d a n
+512	Ormuri	eat	xraxuluk		x r a x u l u k
+513	Ossetic_Iron	eat	xærɨn		x æ r ɨ n
+514	Parachi	eat	xar	xur	x a r
+515	Shughni	eat	xar		x a r
+516	Taleshi	eat	xor		x o r
+517	Wakhi	eat	jau		j a u
+518	Waziri	eat	xwarel		x w a r e l
+519	Yaghnobi	eat	xwar		x w a r
+520	Zazaki	eat	werdiʔ		w e r d i ʔ
+521	SEK 	eat	xarɨn		x a r ɨ n
+522	SK	eat	xwarɨn		x w a r ɨ n
+523	NK	eat	xwarɨn		x w a r ɨ n
+524	SWK	eat	xarɨn		x a r ɨ n
+525	NWK	eat	xɔrɨn		x ɔ r ɨ n
+2024	Zebaki	eat	xar		x a r
+2046	Ishkashimi	eat	xar		x a r
+2154	Pashto	eat	ɣvarəl		ɣ v a r ə l
+526	Bakhtiyari	egg	haje		h a j e
+527	Balochi	egg	haix	anu	h a i x
+528	Gilaki	egg	morʔanʔ		m o r ʔ a n ʔ
+529	Judeo-Tati	egg	xoje		x o j e
+530	Kumzari	egg	xaig		x a i g
+531	Luri	egg	toxm	tox	t o x m
+532	Modern_Persian	egg	toxm		t o x m
+533	Ormuri	egg	supal		s u p a l
+534	Ossetic_Iron	egg	aʔk		a ʔ k
+535	Parachi	egg	ex		e x
+536	Shughni	egg	tarmurx		t a r m u r x
+537	Taleshi	egg	moɣnə		m o ɣ n ə
+538	Wakhi	egg	tɨxmɨrg		t ɨ x m ɨ r g
+539	Waziri	egg	jowja	jija	j o w j a
+540	Yaghnobi	egg	taxm	tuxm	t a x m
+541	Zazaki	egg	hak		h a k
+542	SEK 	egg	helɨk	hek	h e l ɨ k
+543	SK	egg	hek		h e k
+544	NK	egg	hek		h e k
+545	SWK	egg	hek		h e k
+546	NWK	egg	hek		h e k
+2047	Ishkashimi	egg	akik		a k i k
+2155	Pashto	egg	voja		v o j a
+547	Bakhtiyari	eye	tej		t e j
+548	Balochi	eye	ʔham		ʔ h a m
+549	Gilaki	eye	cʔm		c ʔ m
+550	Judeo-Tati	eye	ʔum		ʔ u m
+551	Kumzari	eye	ʔom		ʔ o m
+552	Luri	eye	caʔ		c a ʔ
+553	Modern_Persian	eye	ʔasm		ʔ a s m
+554	Ormuri	eye	ʔimi		ʔ i m i
+555	Ossetic_Iron	eye	kaest		k a e s t
+556	Parachi	eye	dida		d i d a
+557	Shughni	eye	ʔaxm	cem	ʔ a x m
+558	Taleshi	eye	caʔm		c a ʔ m
+559	Wakhi	eye	cezm		c e z m
+560	Waziri	eye	sterga		s t e r g a
+561	Yaghnobi	eye	gurda	wenna	g u r d a
+562	Zazaki	eye	ʔim		ʔ i m
+563	SEK 	eye	ʧaw		ʧ a w
+564	SK	eye	ʧaʕv		ʧ a ʕ v
+565	NK	eye	ʧɛʕv		ʧ ɛ ʕ v
+566	SWK	eye	ʧav		ʧ a v
+567	NWK	eye	ʧɔv		ʧ ɔ v
+2025	Zebaki	eye	tsam		t s a m
+2048	Ishkashimi	eye	tsam		t s a m
+2156	Pashto	eye	stərga		s t ə r g a
+568	Bakhtiyari	fall	ʔasten		ʔ a s t e n
+569	Balochi	fall	xafagʔ	xapta	x a f a g ʔ
+570	Gilaki	fall	kʔft		k ʔ f t
+571	Judeo-Tati	fall	ofdore		o f d o r e
+572	Kumzari	fall	keft		k e f t
+573	Luri	fall	kata		k a t a
+574	Modern_Persian	fall	oftadan		o f t a d a n
+575	Ormuri	fall	ʔuz	ʔwaz	ʔ u z
+576	Ossetic_Iron	fall	xauɨn		x a u ɨ n
+577	Parachi	fall	ʧhar		ʧ h a r
+578	Shughni	fall	raz	waʃ	r a z
+579	Taleshi	fall	laka		l a k a
+580	Wakhi	fall	wez	pulun	w e z
+581	Waziri	fall	prewatel	walwedel	p r e w a t e l
+582	Yaghnobi	fall	dewi	tiraʔ	d e w i
+583	Zazaki	fall	kewtiʔ	gunajiʔ	k e w t i ʔ
+584	SEK 	fall	kɛtɨn		k ɛ t ɨ n
+585	SK	fall	kɛtɨn		k ɛ t ɨ n
+586	NK	fall	kɛtɨn		k ɛ t ɨ n
+587	SWK	fall	kɛtɨn		k ɛ t ɨ n
+588	NWK	fall	kɛtɨn		k ɛ t ɨ n
+2026	Zebaki	fall	idawi		i d a w i
+2109	Ishkashimi	fall	waz		w a z
+2157	Pashto	fall	lvedəl		l v e d ə l
+589	Bakhtiyari	far	dir		d i r
+590	Balochi	far	dir		d i r
+591	Gilaki	far	dur		d u r
+592	Judeo-Tati	far	dur		d u r
+593	Kumzari	far	dur		d u r
+594	Luri	far	dyr		d y r
+595	Modern_Persian	far	dur		d u r
+596	Ormuri	far	pets		p e t s
+597	Ossetic_Iron	far	dard		d a r d
+598	Parachi	far	durin		d u r i n
+599	Shughni	far	dar	dur	d a r
+600	Taleshi	far	diəro		d i ə r o
+601	Wakhi	far	dir		d i r
+602	Waziri	far	lire	wurija	l i r e
+603	Yaghnobi	far	dur	olam	d u r
+604	Zazaki	far	duri		d u r i
+605	SEK 	far	dyr		d y r
+606	SK	far	dur		d u r
+607	NK	far	dur		d u r
+608	SWK	far	dur		d u r
+609	NWK	far	dur		d u r
+2027	Zebaki	far	dir		d i r
+2049	Ishkashimi	far	dir		d i r
+2158	Pashto	far	lire		l i r e
+610	Bakhtiyari	fire	taʔ		t a ʔ
+611	Balochi	fire	as		a s
+612	Gilaki	fire	atʔ		a t ʔ
+613	Judeo-Tati	fire	ʔatoʔ		ʔ a t o ʔ
+614	Kumzari	fire	hatiʔ		h a t i ʔ
+615	Luri	fire	taʔ		t a ʔ
+616	Modern_Persian	fire	ataʔ		a t a ʔ
+617	Ormuri	fire	run		r u n
+618	Ossetic_Iron	fire	art	caexaer	a r t
+619	Parachi	fire	oʔ		o ʔ
+620	Shughni	fire	alow	yoc	a l o w
+621	Taleshi	fire	otaʔ		o t a ʔ
+622	Wakhi	fire	ruxunigʔ		r u x u n i g ʔ
+623	Waziri	fire	jor		j o r
+624	Yaghnobi	fire	olow		o l o w
+625	Zazaki	fire	adir		a d i r
+626	SEK 	fire	agɨr		a g ɨ r
+627	SK	fire	agɨr		a g ɨ r
+628	NK	fire	agɨr		a g ɨ r
+629	SWK	fire	ar		a r
+630	NWK	fire	ɔr		ɔ r
+2028	Zebaki	fire	roʔni		r o ʔ n i
+2050	Ishkashimi	fire	roʔni		r o ʔ n i
+2159	Pashto	fire	or	ataʃ	o r
+631	Bakhtiyari	fish	mai		m a i
+632	Balochi	fish	mahi		m a h i
+633	Gilaki	fish	mahi		m a h i
+634	Judeo-Tati	fish	ʔaʔ		ʔ a ʔ
+635	Kumzari	fish	mi		m i
+636	Luri	fish	maʔi		m a ʔ i
+637	Modern_Persian	fish	mahi		m a h i
+638	Ormuri	fish	maʔi		m a ʔ i
+639	Ossetic_Iron	fish	kaesag		k a e s a g
+640	Parachi	fish	maso		m a s o
+641	Shughni	fish	moji		m o j i
+642	Taleshi	fish	mohi		m o h i
+643	Wakhi	fish	moj	məst	m o j
+644	Yaghnobi	fish	mahi		m a h i
+645	Zazaki	fish	mase		m a s e
+646	SEK 	fish	masi		m a s i
+647	SK	fish	masi		m a s i
+648	NK	fish	mɛʕsi		m ɛ ʕ s i
+649	SWK	fish	masɨ		m a s ɨ
+650	NWK	fish	mɔsi		m ɔ s i
+2102	Ishkashimi	fish	moi		m o i
+2160	Pashto	fish	mahaj		m a h a j
+651	Bakhtiyari	fly	paʃxe		p a ʃ x e
+652	Balochi	fly	masesk		m a s e s k
+653	Gilaki	fly	məgəs		m ə g ə s
+654	Judeo-Tati	fly	megez		m e g e z
+655	Kumzari	fly	mes		m e s
+656	Luri	fly	pareda	fal kerda	p a r e d a
+657	Modern_Persian	fly	mags		m a g s
+658	Ormuri	fly	maʃɨ		m a ʃ ɨ
+659	Ossetic_Iron	fly	tæxɨn		t æ x ɨ n
+660	Parachi	fly	rhoz		r h o z
+661	Shughni	fly	riwaz		r i w a z
+662	Taleshi	fly	parʔst		p a r ʔ s t
+663	Wakhi	fly	maks		m a k s
+664	Waziri	fly	wratel		w r a t e l
+665	Yaghnobi	fly	par	fur	p a r
+666	Zazaki	fly	perʔajiʔ	firʔdajiʔ	p e r ʔ a j i ʔ
+667	SEK 	fly	meʃ		m e ʃ
+668	SK	fly	meʃ		m e ʃ
+669	NK	fly	meʃ		m e ʃ
+670	SWK	fly	meɹ		m e ɹ
+671	NWK	fly	mɛʃ		m ɛ ʃ
+2103	Ishkashimi	fly	paʃɛ		p a ʃ ɛ
+2161	Pashto	fly	məʧ		m ə ʧ
+672	Bakhtiyari	give	daden		d a d e n
+673	Balochi	give	deagʔ	datʔa	d e a g ʔ
+674	Gilaki	give	daan	fadan	d a a n
+675	Judeo-Tati	give	dore		d o r e
+676	Kumzari	give	do	dar	d o
+677	Modern_Persian	give	dadan		d a d a n
+678	Ormuri	give	baʃ	ʃɨr	b a ʃ
+679	Ossetic_Iron	give	daettɨn		d a e t t ɨ n
+680	Shughni	give	dedow		d e d o w
+681	Taleshi	give	da		d a
+682	Wakhi	give	rand		r a n d
+683	Waziri	give	derkrel		d e r k r e l
+684	Yaghnobi	give	tifar		t i f a r
+685	Zazaki	give	dajiʔ		d a j i ʔ
+686	SEK 	give	dan		d a n
+687	SK	give	dan		d a n
+688	NK	give	dayin		d a y i n
+689	SWK	give	dan		d a n
+690	NWK	give	dɔyin	dɔn	d ɔ y i n
+2029	Zebaki	give	da		d a
+2051	Ishkashimi	give	da		d a
+2162	Pashto	give	darkawəl	dad	d a r k a w ə l
+691	Bakhtiyari	go	rahden	raften	r a h d e n
+692	Balochi	go	rawag		r a w a g
+693	Gilaki	go	ʃon	gərdəstən	ʃ o n
+694	Judeo-Tati	go	rafde	geʃde	r a f d e
+695	Kumzari	go	raft		r a f t
+696	Modern_Persian	go	raftan		r a f t a n
+697	Ormuri	go	tsaw		t s a w
+698	Ossetic_Iron	go	tsæwɨn	wajɨn	t s æ w ɨ n
+699	Parachi	go	ʧim		ʧ i m
+700	Shughni	go	saw	tiz	s a w
+701	Taleshi	go	ʃe	poje	ʃ e
+702	Wakhi	go	ʧaw	tuk	ʧ a w
+703	Yaghnobi	go	tir	ʃau	t i r
+704	Zazaki	go	ʃɨjajiʃ	ʃɨne	ʃ ɨ j a j i ʃ
+705	SEK 	go	ʧun		ʧ u n
+706	SK	go	ʧun		ʧ u n
+707	NK	go	ʧuyin		ʧ u y i n
+708	SWK	go	ʧun		ʧ u n
+709	NWK	go	ʧuyin		ʧ u y i n
+2099	Ishkashimi	go	ʃu		ʃ u
+2122	Zebaki	go	ʃom		ʃ o m
+2163	Pashto	go	tləl		t l ə l
+710	Bakhtiyari	good	xoʔ		x o ʔ
+711	Balochi	good	ʔar		ʔ a r
+712	Gilaki	good	xob	xuʃ	x o b
+713	Judeo-Tati	good	xub		x u b
+714	Kumzari	good	xair		x a i r
+715	Luri	good	xuʔ		x u ʔ
+716	Modern_Persian	good	xub		x u b
+717	Ormuri	good	ʔir		ʔ i r
+718	Ossetic_Iron	good	xorz	dzaebaex	x o r z
+719	Parachi	good	kori	nek	k o r i
+720	Shughni	good	baʔand		b a ʔ a n d
+721	Taleshi	good	xuʔ		x u ʔ
+722	Wakhi	good	xub	buf	x u b
+723	Waziri	good	ʔe		ʔ e
+724	Yaghnobi	good	obadon		o b a d o n
+725	Zazaki	good	weʔ	hol	w e ʔ
+726	SEK 	good	baʃ		b a ʃ
+727	SK	good	baʃ		b a ʃ
+728	NK	good	ɹɨnd	baʃ	ɹ ɨ n d
+729	SWK	good	rɨnd		r ɨ n d
+730	NWK	good	ɹɨnd		ɹ ɨ n d
+2030	Zebaki	good	feri		f e r i
+2052	Ishkashimi	good	fri	nek	f r i
+2164	Pashto	good	ɣuʃ		ɣ u ʃ
+731	Bakhtiyari	hair	mi		m i
+732	Balochi	hair	pʔut		p ʔ u t
+733	Gilaki	hair	mu		m u
+734	Judeo-Tati	hair	muj		m u j
+735	Kumzari	hair	mu		m u
+736	Luri	hair	my		m y
+737	Modern_Persian	hair	mu		m u
+738	Ormuri	hair	dri	dəro	d r i
+739	Ossetic_Iron	hair	særɨxʔuɨn	xʔuyn	s æ r ɨ x ʔ u ɨ n
+740	Parachi	hair	doʃ	ʔol	d o ʃ
+741	Shughni	hair	muj	tor	m u j
+742	Taleshi	hair	my		m y
+743	Wakhi	hair	ʃafʃ	ɣani	ʃ a f ʃ
+744	Waziri	hair	weʔte		w e ʔ t e
+745	Yaghnobi	hair	diraw	paʔm	d i r a w
+746	Zazaki	hair	mu	por	m u
+747	SEK 	hair	pɨrʧ		p ɨ r ʧ
+748	SK	hair	pov	por 	p o v
+749	NK	hair	por		p o r
+750	SWK	hair	por		p o r
+751	NWK	hair	por		p o r
+2031	Zebaki	hair	segund		s e g u n d
+2053	Ishkashimi	hair	ɣenuk	ɣunʤ	ɣ e n u k
+2165	Pashto	hair	mu		m u
+752	Bakhtiyari	hand	dast		d a s t
+753	Balochi	hand	dast		d a s t
+754	Gilaki	hand	dʔs		d ʔ s
+755	Judeo-Tati	hand	des		d e s
+756	Kumzari	hand	dist		d i s t
+757	Luri	hand	dass		d a s s
+758	Modern_Persian	hand	dast		d a s t
+759	Ormuri	hand	dest		d e s t
+760	Ossetic_Iron	hand	kʔux		k ʔ u x
+761	Parachi	hand	dɜst		d ɜ s t
+762	Shughni	hand	dast	xikufta	d a s t
+763	Taleshi	hand	dast		d a s t
+764	Wakhi	hand	dast		d a s t
+765	Waziri	hand	los		l o s
+766	Yaghnobi	hand	dast		d a s t
+767	Zazaki	hand	dest		d e s t
+768	SEK 	hand	mɨl	dɛst 	m ɨ l
+769	SK	hand	mɨl	dɛst 	m ɨ l
+770	NK	hand	phi	dɛst	p h i
+771	SWK	hand	phi	dɛst	p h i
+772	NWK	hand	phi	dæst	p h i
+2032	Zebaki	hand	dast		d a s t
+2090	Ishkashimi	hand	dust		d u s t
+2166	Pashto	hand	las		l a s
+773	Bakhtiyari	hard	seft		s e f t
+774	Balochi	hard	trond		t r o n d
+775	Gilaki	hard	kar		k a r
+776	Judeo-Tati	hard	texdeteher		t e x d e t e h e r
+777	Kumzari	hard	iʃk	samn	i ʃ k
+778	Modern_Persian	hard	saɣt		s a ɣ t
+779	Ormuri	hard	tiŋ		t i ŋ
+780	Ossetic_Iron	hard	xwæbær	xus	x w æ b æ r
+781	Parachi	hard	ʁaweri		ʁ a w e r i
+782	Shughni	hard	xaʃ	qin	x a ʃ
+783	Taleshi	hard	ʧətin	səxt	ʧ ə t i n
+784	Wakhi	hard	ʃux	tuŋ	ʃ u x
+785	Yaghnobi	hard	wazmin	ʃax	w a z m i n
+786	Zazaki	hard	sert	wiʃk	s e r t
+787	SEK 	hard	rɛq		r ɛ q
+788	SK	hard	hɨʃk		h ɨ ʃ k
+789	NK	hard	ʕɛʃk		ʕ ɛ ʃ k
+790	SWK	hard	sɛrt		s ɛ r t
+791	NWK	hard	sɛɹt		s ɛ ɹ t
+2092	Ishkashimi	hard	kulaɣ	ʃax	k u l a ɣ
+2167	Pashto	hard	saɣt		s a ɣ t
+792	Bakhtiyari	hear	aʔniden		a ʔ n i d e n
+793	Balochi	hear	asxanagʔ	asxutʔa	a s x a n a g ʔ
+794	Gilaki	hear	iʔnav		i ʔ n a v
+795	Judeo-Tati	hear	ʔinire		ʔ i n i r e
+796	Kumzari	hear	ʃnaft	ʃnaw	ʃ n a f t
+797	Luri	hear	ʔonofta	goʔ kerda	ʔ o n o f t a
+798	Modern_Persian	hear	ʔenidan		ʔ e n i d a n
+799	Ormuri	hear	amar		a m a r
+800	Ossetic_Iron	hear	xʔusɨn		x ʔ u s ɨ n
+801	Parachi	hear	harw		h a r w
+802	Shughni	hear	xin		x i n
+803	Taleshi	hear	mas		m a s
+804	Wakhi	hear	ksɨj		k s ɨ j
+805	Waziri	hear	arwedel	worwedel	a r w e d e l
+806	Yaghnobi	hear	duguʔ		d u g u ʔ
+807	Zazaki	hear	aʔnawitiʔ		a ʔ n a w i t i ʔ
+808	SEK 	hear	bɨhistɨn	hay ʤe bun	b ɨ h i s t ɨ n
+809	SK	hear	ħɨs	ħɨsandɨn	ħ ɨ s
+810	NK	hear	bɨhistɨn		b ɨ h i s t ɨ n
+811	SWK	hear	bɨhistɨn		b ɨ h i s t ɨ n
+812	NWK	hear	bistɨn		b i s t ɨ n
+2055	Ishkashimi	hear	ʃud		ʃ u d
+2168	Pashto	hear	arvedəl		a r v e d ə l
+813	Bakhtiyari	heavy	saʔin		s a ʔ i n
+814	Balochi	heavy	giran		g i r a n
+815	Gilaki	heavy	səngin	səxt	s ə n g i n
+816	Judeo-Tati	heavy	gurund		g u r u n d
+817	Kumzari	heavy	sanʔgi		s a n ʔ g i
+818	Luri	heavy	saʔi		s a ʔ i
+819	Modern_Persian	heavy	saʔin		s a ʔ i n
+820	Ormuri	heavy	wazmʔnd	gran	w a z m ʔ n d
+821	Ossetic_Iron	heavy	wæzau		w æ z a u
+822	Parachi	heavy	giran		g i r a n
+823	Shughni	heavy	wazmin	zur	w a z m i n
+824	Taleshi	heavy	səxt	ʧətin	s ə x t
+825	Wakhi	heavy	gʔuruʔ	ɣərung	g ʔ u r u ʔ
+826	Waziri	heavy	drind	saxt	d r i n d
+827	Yaghnobi	heavy	wazmin		w a z m i n
+828	Zazaki	heavy	ʃenik	giran	ʃ e n i k
+829	SEK 	heavy	gɨran		g ɨ r a n
+830	SK	heavy	gɨran		g ɨ r a n
+831	NK	heavy	gɨran		g ɨ r a n
+832	SWK	heavy	gɨran		g ɨ r a n
+833	NWK	heavy	gɨran		g ɨ r a n
+2108	Ishkashimi	heavy	wazmin		w a z m i n
+2169	Pashto	heavy	drund		d r u n d
+834	Bakhtiyari	hide	xef	bejdar kerden	x e f
+835	Balochi	hide	per	poʃenag	p e r
+836	Gilaki	hide	ʒuxusanen	ʒa daan	ʒ u x u s a n e n
+837	Judeo-Tati	hide	pexni	dorun doʃde	p e x n i
+838	Kumzari	hide	enar		e n a r
+839	Modern_Persian	hide	panhan	pinhan	p a n h a n
+840	Ormuri	hide	ɣəle		ɣ ə l e
+841	Ossetic_Iron	hide	æmbæxsɨn	nɨmæxsɨn	æ m b æ x s ɨ n
+842	Parachi	hide	xaz		x a z
+843	Shughni	hide	pano		p a n o
+844	Taleshi	hide	noho		n o h o
+845	Yaghnobi	hide	baʤo	ryst	b a ʤ o
+846	SEK 	hide	ʃartɨnɛwɛ		ʃ a r t ɨ n ɛ w ɛ
+847	SK	hide	vɛʃartɨn		v ɛ ʃ a r t ɨ n
+848	NK	hide	vɛʃartɨn		v ɛ ʃ a r t ɨ n
+849	SWK	hide	vɛʃartɨn		v ɛ ʃ a r t ɨ n
+850	NWK	hide	vɛʃartɨn		v ɛ ʃ a r t ɨ n
+2170	Pashto	hide	nixamavəl		n i x a m a v ə l
+851	Bakhtiyari	hit/beat	koften	xarden	k o f t e n
+852	Balochi	hit/beat	ʔanagʔ		ʔ a n a g ʔ
+853	Gilaki	hit/beat	kʔf		k ʔ f
+854	Judeo-Tati	hit/beat	kuf		k u f
+855	Kumzari	hit/beat	okt		o k t
+856	Luri	hit/beat	zata		z a t a
+857	Modern_Persian	hit/beat	zadan		z a d a n
+858	Ormuri	hit/beat	zan		z a n
+859	Ossetic_Iron	hit/beat	tsævɨn	naemyn	t s æ v ɨ n
+860	Parachi	hit/beat	ʔan	zarb	ʔ a n
+861	Shughni	hit/beat	di		d i
+862	Taleshi	hit/beat	zan		z a n
+863	Wakhi	hit/beat	di		d i
+864	Waziri	hit/beat	wahel	takawel	w a h e l
+865	Zazaki	hit/beat	dajiʔ	piro dajiʔ	d a j i ʔ
+866	SEK 	hit/beat	ledan		l e d a n
+867	SK	hit/beat	lexɨstɨn		l e x ɨ s t ɨ n
+868	NK	hit/beat	lexɨstɨn		l e x ɨ s t ɨ n
+869	SWK	hit/beat	lexɨstɨn		l e x ɨ s t ɨ n
+870	NWK	hit/beat	lexɨstɨn		l e x ɨ s t ɨ n
+2171	Pashto	hit/beat	drazawəl		d r a z a w ə l
+871	Bakhtiyari	horn	ʔax		ʔ a x
+872	Balochi	horn	kanʈ		k a n ʈ
+873	Gilaki	horn	ʃax		ʃ a x
+874	Judeo-Tati	horn	ʃox		ʃ o x
+875	Kumzari	horn	qarn		q a r n
+876	Luri	horn	ʔax		ʔ a x
+877	Modern_Persian	horn	ʔax		ʔ a x
+878	Ormuri	horn	ʃax		ʃ a x
+879	Ossetic_Iron	horn	sɨ	ʃǝkʔa	s ɨ
+880	Parachi	horn	ʃi		ʃ i
+881	Shughni	horn	xaʃ		x a ʃ
+882	Taleshi	horn	ʔux		ʔ u x
+883	Wakhi	horn	ʃəu		ʃ ə u
+884	Yaghnobi	horn	ʔox		ʔ o x
+885	Zazaki	horn	qoʔ		q o ʔ
+886	SEK 	horn	ʃax		ʃ a x
+887	SK	horn	stɨrɨh		s t ɨ r ɨ h
+888	NK	horn	qoʧ		q o ʧ
+889	SWK	horn	qoʧ		q o ʧ
+890	NWK	horn	ustru		u s t r u
+2106	Ishkashimi	horn	vərok		v ə r o k
+2172	Pashto	horn	xkər		x k ə r
+891	Bakhtiyari	house	hoʋne		h o ʋ n e
+892	Balochi	house	ʧarkol		ʧ a r k o l
+893	Gilaki	house	xanə		x a n ə
+894	Judeo-Tati	house	xune		x u n e
+895	Kumzari	house	xanaʁ		x a n a ʁ
+896	Modern_Persian	house	ɣana		ɣ a n a
+897	Ormuri	house	nar	ner	n a r
+898	Ossetic_Iron	house	xædzar		x æ d z a r
+899	Parachi	house	ʁus	xana	ʁ u s
+900	Shughni	house	ʧid	buna	ʧ i d
+901	Taleshi	house	kə		k ə
+902	Wakhi	house	ɣun		ɣ u n
+903	Yaghnobi	house	kat	xona	k a t
+904	Zazaki	house	ban		b a n
+905	SEK 	house	mal	xani 	m a l
+906	SK	house	mal	xani	m a l
+907	NK	house	mal	xani	m a l
+908	SWK	house	mal	xani	m a l
+909	NWK	house	mɔl	xɔni	m ɔ l
+2033	Zebaki	house	ɣan	ɣu	ɣ a n
+2093	Ishkashimi	house	ɣun		ɣ u n
+2173	Pashto	house	kor		k o r
+910	Bakhtiyari	in	men		m e n
+911	Balochi	in	nianwan	lafa	n i a n w a n
+912	Gilaki	in	dər	andərun	d ə r
+913	Judeo-Tati	in	der		d e r
+914	Kumzari	in	indi		i n d i
+915	Modern_Persian	in	dar		d a r
+916	Ormuri	in	nɛ		n ɛ
+917	Ossetic_Iron	in	mae	aeʔ	m a e
+918	Parachi	in	tar		t a r
+919	Shughni	in	pi	tar	p i
+920	Taleshi	in	bə		b ə
+921	Wakhi	in	ne		n e
+922	Waziri	in	kʔe	pa kʔe	k ʔ e
+923	Zazaki	in	di		d i
+924	SEK 	in	dɨ	(dɨ) naw .. da	d ɨ
+925	SK	in	dɨ	lɨ hɨnduru	d ɨ
+926	NK	in	dɨ	 da	d ɨ
+927	SWK	in	dɨ	hundɨr	d ɨ
+928	NWK	in	dæ	hundɨri	d æ
+2034	Zebaki	in	ka	pa	k a
+2057	Ishkashimi	in	dar	pa,po	d a r
+2174	Pashto	in	pex		p e x
+929	Bakhtiyari	knee	zuni		z u n i
+930	Balochi	knee	ʈong		ʈ o n g
+931	Gilaki	knee	zanu		z a n u
+932	Judeo-Tati	knee	zani		z a n i
+933	Kumzari	knee	rukbit		r u k b i t
+934	Luri	knee	zuni		z u n i
+935	Modern_Persian	knee	zanu		z a n u
+936	Ormuri	knee	zanu		z a n u
+937	Ossetic_Iron	knee	wɜrag 		w ɜ r a g
+938	Parachi	knee	zonu		z o n u
+939	Shughni	knee	zun		z u n
+940	Taleshi	knee	zʔʔ		z ʔ ʔ
+941	Yaghnobi	knee	zonk	zonu	z o n k
+942	Zazaki	knee	saqe	ʔok	s a q e
+943	SEK 	knee	ʧok		ʧ o k
+944	SK	knee	kabok		k a b o k
+945	NK	knee	ʧok		ʧ o k
+946	SWK	knee	ʧong		ʧ o n g
+947	NWK	knee	ʧok		ʧ o k
+2058	Ishkashimi	knee	zuʔ		z u ʔ
+2175	Pashto	knee	zanu		z a n u
+948	Bakhtiyari	know	doʔnesten		d o ʔ n e s t e n
+949	Balochi	know	sahihbiagʔ		s a h i h b i a g ʔ
+950	Gilaki	know	dan		d a n
+951	Judeo-Tati	know	ʔinoxde		ʔ i n o x d e
+952	Kumzari	know	dan	danid	d a n
+953	Modern_Persian	know	danestan		d a n e s t a n
+954	Ossetic_Iron	know	fæsmærun	zonyn	f æ s m æ r u n
+955	Parachi	know	xabʔar		x a b ʔ a r
+956	Shughni	know	fam	wizan	f a m
+957	Taleshi	know	zun		z u n
+958	Wakhi	know	dis		d i s
+959	Waziri	know	xabar	molim	x a b a r
+960	Yaghnobi	know	giriv		g i r i v
+961	Zazaki	know	zanajiʔ		z a n a j i ʔ
+962	SEK 	know	zanin		z a n i n
+963	SK	know	zanin		z a n i n
+964	NK	know	zanin		z a n i n
+965	SWK	know	zanin		z a n i n
+966	NWK	know	zɔnin		z ɔ n i n
+967	Bakhtiyari	laugh	handesten		h a n d e s t e n
+968	Balochi	laugh	xandagʔ	xanditʔa	x a n d a g ʔ
+969	Gilaki	laugh	xəndʔ		x ə n d ʔ
+970	Judeo-Tati	laugh	xendysde		x e n d y s d e
+971	Kumzari	laugh	xanidiʔ		x a n i d i ʔ
+972	Luri	laugh	xana		x a n a
+973	Modern_Persian	laugh	xandidan		x a n d i d a n
+974	Ormuri	laugh	xanak		x a n a k
+975	Ossetic_Iron	laugh	xudɨn		x u d ɨ n
+976	Parachi	laugh	xan		x a n
+977	Shughni	laugh	ʔand		ʔ a n d
+978	Taleshi	laugh	xanda		x a n d a
+979	Wakhi	laugh	kund		k u n d
+980	Waziri	laugh	xandel		x a n d e l
+981	Yaghnobi	laugh	xant		x a n t
+982	Zazaki	laugh	huwajiʃ		h u w a j i ʃ
+983	SEK 	laugh	kɛnin		k ɛ n i n
+984	SK	laugh	kɛn		k ɛ n
+985	NK	laugh	kɛnin		k ɛ n i n
+986	SWK	laugh	kɛnin		k ɛ n i n
+987	NWK	laugh	kænin		k æ n i n
+2176	Pashto	laugh	ɣandedəl		ɣ a n d e d ə l
+988	Bakhtiyari	leaf	par		p a r
+989	Balochi	leaf	tʔax		t ʔ a x
+990	Gilaki	leaf	bərg		b ə r g
+991	Judeo-Tati	leaf	velg		v e l g
+992	Kumzari	leaf	warq		w a r q
+993	Luri	leaf	barg		b a r g
+994	Modern_Persian	leaf	barg		b a r g
+995	Ormuri	leaf	barg		b a r g
+996	Ossetic_Iron	leaf	sɨf		s ɨ f
+997	Parachi	leaf	pon		p o n
+998	Shughni	leaf	barg	park	b a r g
+999	Taleshi	leaf	liv		l i v
+1000	Wakhi	leaf	pulc		p u l c
+1001	Waziri	leaf	ponrje		p o n r j e
+1002	Yaghnobi	leaf	barg		b a r g
+1003	Zazaki	leaf	velg		v e l g
+1004	SEK 	leaf	pɛlɨk	bɛlg	p ɛ l ɨ k
+1005	SK	leaf	pɛl		p ɛ l
+1006	NK	leaf	pɛl		p ɛ l
+1007	SWK	leaf	pɛlʧ		p ɛ l ʧ
+1008	NWK	leaf	ʧɨlo		ʧ ɨ l o
+2059	Ishkashimi	leaf	barg		b a r g
+2177	Pashto	leaf	barg		b a r g
+1009	Bakhtiyari	leg/foot	leʔ		l e ʔ
+1010	Balochi	leg/foot	pʔadh		p ʔ a d h
+1011	Gilaki	leg/foot	pa		p a
+1012	Judeo-Tati	leg/foot	poj		p o j
+1013	Kumzari	leg/foot	pa		p a
+1014	Modern_Persian	leg/foot	pa		p a
+1015	Ossetic_Iron	leg/foot	kʔax	zaeʔ	k ʔ a x
+1016	Parachi	leg/foot	leʔ		l e ʔ
+1017	Shughni	leg/foot	po		p o
+1018	Taleshi	leg/foot	lʔʔ		l ʔ ʔ
+1019	Wakhi	leg/foot	pued	leʔ	p u e d
+1020	Waziri	leg/foot	pʔa	laʔra	p ʔ a
+1021	Yaghnobi	leg/foot	poda	po	p o d a
+1022	Zazaki	leg/foot	liʔ		l i ʔ
+1023	SEK 	leg/foot	lɨng	pe 	l ɨ n g
+1024	SK	leg/foot	lɨng	pi-lɨng 	l ɨ n g
+1025	NK	leg/foot	ʧip	lɨng	ʧ i p
+1026	SWK	leg/foot	nɨg		n ɨ g
+1027	NWK	leg/foot	nɨg		n ɨ g
+2060	Ishkashimi	leg/foot	tsiwliʔ		t s i w l i ʔ
+2178	Pashto	leg/foot	pa		p a
+1028	Bakhtiyari	liver	ʔijar		ʔ i j a r
+1029	Balochi	liver	ʔagʔar		ʔ a g ʔ a r
+1030	Gilaki	liver	ʔgʔr		ʔ g ʔ r
+1031	Judeo-Tati	liver	ʔiger		ʔ i g e r
+1032	Kumzari	liver	joʁur		j o ʁ u r
+1033	Luri	liver	ʔegar		ʔ e g a r
+1034	Modern_Persian	liver	ʔegar		ʔ e g a r
+1035	Ossetic_Iron	liver	igaer		i g a e r
+1036	Parachi	liver	ʔigar		ʔ i g a r
+1037	Shughni	liver	ʔigar	ʔod	ʔ i g a r
+1038	Taleshi	liver	ʤigə		ʤ i g ə
+1039	Wakhi	liver	ʔigar		ʔ i g a r
+1040	Waziri	liver	jenna		j e n n a
+1041	Yaghnobi	liver	ʔupurda	ʔigar	ʔ u p u r d a
+1042	Zazaki	liver	qesiba		q e s i b a
+1043	SEK 	liver	cɛrg		c ɛ r g
+1044	SK	liver	kɛzɛb		k ɛ z ɛ b
+1045	NK	liver	cigɛr		c i g ɛ r
+1046	SWK	liver	kɛzɛw		k ɛ z ɛ w
+1047	NWK	liver	cigær	kɛzɛw	c i g æ r
+2061	Ishkashimi	liver	gola		g o l a
+2179	Pashto	liver	dzigar	ʤigar	d z i g a r
+1048	Bakhtiyari	long	deraz		d e r a z
+1049	Balochi	long	draʒ		d r a ʒ
+1050	Gilaki	long	dʔraz		d ʔ r a z
+1051	Judeo-Tati	long	duraz		d u r a z
+1052	Kumzari	long	draz		d r a z
+1053	Modern_Persian	long	deraz	boland	d e r a z
+1054	Ormuri	long	droʔ		d r o ʔ
+1055	Ossetic_Iron	long	dargʔ		d a r g ʔ
+1056	Parachi	long	biʃt		b i ʃ t
+1057	Shughni	long	daroz	vogʔ	d a r o z
+1058	Taleshi	long	dɨroz	doroz	d ɨ r o z
+1059	Wakhi	long	deroz	verz	d e r o z
+1060	Waziri	long	wiʒd		w i ʒ d
+1061	Yaghnobi	long	van		v a n
+1062	Zazaki	long	derg		d e r g
+1063	SEK 	long	dreʒ		d r e ʒ
+1064	SK	long	dɨreʒ		d ɨ r e ʒ
+1065	NK	long	dɨreʒ		d ɨ r e ʒ
+1066	SWK	long	dɨreʒ		d ɨ r e ʒ
+1067	NWK	long	dɨreʒ		d ɨ r e ʒ
+2062	Ishkashimi	long	wuzduk		w u z d u k
+2180	Pashto	long	uʒd	kaʃal	u ʒ d
+1068	Bakhtiyari	louse	ʔeʔ		ʔ e ʔ
+1069	Balochi	louse	bot		b o t
+1070	Gilaki	louse	səbəʤ		s ə b ə ʤ
+1071	Judeo-Tati	louse	subuʤ		s u b u ʤ
+1072	Kumzari	louse	qarʔa	riʃk	q a r ʔ a
+1073	Luri	louse	eʔ		e ʔ
+1074	Modern_Persian	louse	ʔepeʔ		ʔ e p e ʔ
+1075	Ormuri	louse	spoi		s p o i
+1076	Ossetic_Iron	louse	sɨst		s ɨ s t
+1077	Parachi	louse	ispo		i s p o
+1078	Shughni	louse	sipag	murax	s i p a g
+1079	Taleshi	louse	ʔsbʔ		ʔ s b ʔ
+1080	Wakhi	louse	sis		s i s
+1081	Waziri	louse	spaʒa		s p a ʒ a
+1082	Yaghnobi	louse	ʔipuʔ		ʔ i p u ʔ
+1083	Zazaki	louse	eʔpiʔ		e ʔ p i ʔ
+1084	SEK 	louse	hɨspi		h ɨ s p i
+1085	SK	louse	spɛh		s p ɛ h
+1086	NK	louse	sɨpi		s ɨ p i
+1087	SWK	louse	spɨʔ		s p ɨ ʔ
+1088	NWK	louse	ɨspi		ɨ s p i
+2063	Ishkashimi	louse	spul		s p u l
+2181	Pashto	louse	spəʒa		s p ə ʒ a
+1089	Bakhtiyari	meat	guʔt		g u ʔ t
+1090	Balochi	meat	goʒd		g o ʒ d
+1091	Gilaki	meat	guʔt		g u ʔ t
+1092	Judeo-Tati	meat	guʔd		g u ʔ d
+1093	Kumzari	meat	goʔt		g o ʔ t
+1094	Luri	meat	gyʔt		g y ʔ t
+1095	Modern_Persian	meat	guʔt		g u ʔ t
+1096	Ormuri	meat	goka		g o k a
+1097	Ossetic_Iron	meat	fɨd		f ɨ d
+1098	Parachi	meat	ʔuʔ		ʔ u ʔ
+1099	Shughni	meat	guxt		g u x t
+1100	Taleshi	meat	guzʔd		g u z ʔ d
+1101	Wakhi	meat	gost		g o s t
+1102	Waziri	meat	gʔoʔa	gʔeʔa	g ʔ o ʔ a
+1103	Yaghnobi	meat	jota	guʔt	j o t a
+1104	Zazaki	meat	goʔt		g o ʔ t
+1105	SEK 	meat	goʃt		g o ʃ t
+1106	SK	meat	goʃt		g o ʃ t
+1107	NK	meat	goʃt		g o ʃ t
+1108	SWK	meat	goʃt		g o ʃ t
+1109	NWK	meat	goʃt		g o ʃ t
+2064	Ishkashimi	meat	pudf		p u d f
+2182	Pashto	meat	ghvaɣa		g h v a ɣ a
+1110	Bakhtiyari	mouth	dohoʔn		d o h o ʔ n
+1111	Balochi	mouth	daf		d a f
+1112	Gilaki	mouth	dʔhan		d ʔ h a n
+1113	Judeo-Tati	mouth	laʔa		l a ʔ a
+1114	Kumzari	mouth	kar		k a r
+1115	Luri	mouth	kap	daʔan	k a p
+1116	Modern_Persian	mouth	dahan		d a h a n
+1117	Ormuri	mouth	don	pʔʔz	d o n
+1118	Ossetic_Iron	mouth	kom	dzyx	k o m
+1119	Parachi	mouth	ʃoɳɖ		ʃ o ɳ ɖ
+1120	Shughni	mouth	ʔov		ʔ o v
+1121	Taleshi	mouth	gəv		g ə v
+1122	Wakhi	mouth	gʔus		g ʔ u s
+1123	Waziri	mouth	xwula		x w u l a
+1124	Yaghnobi	mouth	rax		r a x
+1125	Zazaki	mouth	fek		f e k
+1126	SEK 	mouth	dɛw		d ɛ w
+1127	SK	mouth	dɛv		d ɛ v
+1128	NK	mouth	dɛv		d ɛ v
+1129	SWK	mouth	dɛv		d ɛ v
+1130	NWK	mouth	dɔv		d ɔ v
+2065	Ishkashimi	mouth	futs		f u t s
+2183	Pashto	mouth	ɣula	kuma	ɣ u l a
+1131	Balochi	name	nam		n a m
+1132	Gilaki	name	nam	ism	n a m
+1133	Judeo-Tati	name	num		n u m
+1134	Kumzari	name	nam		n a m
+1135	Ormuri	name	nom	pazak	n o m
+1136	Ossetic_Iron	name	nom		n o m
+1137	Parachi	name	nɒm 		n ɒ m
+1138	Shughni	name	num		n u m
+1139	Taleshi	name	nom		n o m
+1140	Wakhi	name	nuŋ		n u ŋ
+1141	Waziri	name	num		n u m
+1142	Yaghnobi	name	nom		n o m
+1143	Zazaki	name	name		n a m e
+1144	SEK 	name	naw		n a w
+1145	SK	name	nav		n a v
+1146	NK	name	nav		n a v
+1147	SWK	name	nav		n a v
+1148	NWK	name	nɔv		n ɔ v
+2111	Zebaki	name	nem		n e m
+2184	Pashto	name	num		n u m
+1149	Bakhtiyari	navel	naf		n a f
+1150	Balochi	navel	don		d o n
+1151	Judeo-Tati	navel	nof		n o f
+1152	Kumzari	navel	nawaʁ		n a w a ʁ
+1153	Modern_Persian	navel	naf	nabi	n a f
+1154	Ormuri	navel	nefak		n e f a k
+1155	Ossetic_Iron	navel	bik		b i k
+1156	Parachi	navel	nof		n o f
+1157	Shughni	navel	nof		n o f
+1158	Taleshi	navel	nofə		n o f ə
+1159	Wakhi	navel	nof		n o f
+1160	Yaghnobi	navel	nofa		n o f a
+1161	SEK 	navel	nawɨk		n a w ɨ k
+1162	SK	navel	navɨk		n a v ɨ k
+1163	NK	navel	navɨk		n a v ɨ k
+1164	SWK	navel	nevk		n e v k
+1165	NWK	navel	nɔvɨk		n ɔ v ɨ k
+2094	Ishkashimi	navel	naf		n a f
+2185	Pashto	navel	naf		n a f
+1166	Bakhtiyari	neck	garden		g a r d e n
+1167	Balochi	neck	gwar		g w a r
+1168	Gilaki	neck	guli	gʔrdʔn	g u l i
+1169	Judeo-Tati	neck	gerden		g e r d e n
+1170	Kumzari	neck	gurdin		g u r d i n
+1171	Luri	neck	gardy		g a r d y
+1172	Modern_Persian	neck	gardan		g a r d a n
+1173	Ormuri	neck	gardan	ɣara	g a r d a n
+1174	Ossetic_Iron	neck	bɜrzɜj		b ɜ r z ɜ j
+1175	Parachi	neck	maɳɖʔa 		m a ɳ ɖ ʔ a
+1176	Shughni	neck	gardan	mak	g a r d a n
+1177	Taleshi	neck	gardan		g a r d a n
+1178	Wakhi	neck	gerdon	maejuk	g e r d o n
+1179	Yaghnobi	neck	kʔama		k ʔ a m a
+1180	Zazaki	neck	mil		m i l
+1181	SEK 	neck	sukur		s u k u r
+1182	SK	neck	sukur		s u k u r
+1183	NK	neck	hɨstu		h ɨ s t u
+1184	SWK	neck	hɨstɨ		h ɨ s t ɨ
+1185	NWK	neck	ustɨ		u s t ɨ
+2186	Pashto	neck	gardan		g a r d a n
+1186	Bakhtiyari	new	nu		n u
+1187	Balochi	new	nox		n o x
+1188	Gilaki	new	tazə		t a z ə
+1189	Judeo-Tati	new	toze		t o z e
+1190	Kumzari	new	no		n o
+1191	Luri	new	now	taza	n o w
+1192	Modern_Persian	new	taze		t a z e
+1193	Ormuri	new	nuw		n u w
+1194	Ossetic_Iron	new	næwæg		n æ w æ g
+1195	Parachi	new	no		n o
+1196	Shughni	new	naw	tirak	n a w
+1197	Taleshi	new	toʒə		t o ʒ ə
+1198	Wakhi	new	toza	segʔd	t o z a
+1199	Waziri	new	newai		n e w a i
+1200	Yaghnobi	new	nava		n a v a
+1201	Zazaki	new	newe		n e w e
+1202	SEK 	new	ny		n y
+1203	SK	new	nu		n u
+1204	NK	new	tɛzɛ		t ɛ z ɛ
+1205	SWK	new	no		n o
+1206	NWK	new	no		n o
+2066	Ishkashimi	new	nawuk		n a w u k
+2187	Pashto	new	nəvaj	nəzaj	n ə v a j
+1207	Bakhtiyari	night	ʔaʔ		ʔ a ʔ
+1208	Balochi	night	ʔaf		ʔ a f
+1209	Gilaki	night	ʔb		ʔ b
+1210	Judeo-Tati	night	ʔev		ʔ e v
+1211	Kumzari	night	ʔo		ʔ o
+1212	Luri	night	ʔow		ʔ o w
+1213	Modern_Persian	night	ʔab		ʔ a b
+1214	Ormuri	night	ʃo		ʃ o
+1215	Ossetic_Iron	night	æxtsæv		æ x t s æ v
+1216	Parachi	night	xawʔɒn	weʔɒr	x a w ʔ ɒ n
+1217	Shughni	night	xab		x a b
+1218	Taleshi	night	ʔav		ʔ a v
+1219	Wakhi	night	nugʔd		n u g ʔ d
+1220	Waziri	night	ʔpa		ʔ p a
+1221	Yaghnobi	night	xʔap	ʔab	x ʔ a p
+1222	Zazaki	night	ʔew	pesewe	ʔ e w
+1223	SEK 	night	ʃɛw		ʃ ɛ w
+1224	SK	night	ʃɛv		ʃ ɛ v
+1225	NK	night	ʃɛv		ʃ ɛ v
+1226	SWK	night	ɹæv		ɹ æ v
+1227	NWK	night	ʃæv		ʃ æ v
+2067	Ishkashimi	night	ʔab		ʔ a b
+2112	Zebaki	night	ferʔun		f e r ʔ u n
+2188	Pashto	night	ʃab		ʃ a b
+1228	Bakhtiyari	nose	noft		n o f t
+1229	Balochi	nose	pʔonz		p ʔ o n z
+1230	Gilaki	nose	dəmaɣ		d ə m a ɣ
+1231	Judeo-Tati	nose	vini		v i n i
+1232	Kumzari	nose	noxaret		n o x a r e t
+1233	Luri	nose	domag		d o m a g
+1234	Modern_Persian	nose	damagʔ		d a m a g ʔ
+1235	Ormuri	nose	nini		n i n i
+1236	Ossetic_Iron	nose	fɨndz		f ɨ n d z
+1237	Parachi	nose	damoʔ	neʔt	d a m o ʔ
+1238	Shughni	nose	neʔ		n e ʔ
+1239	Taleshi	nose	vɨni		v ɨ n i
+1240	Wakhi	nose	mis		m i s
+1241	Waziri	nose	peza	warbiz	p e z a
+1242	Yaghnobi	nose	naʔs	dimog	n a ʔ s
+1243	Zazaki	nose	pirnike		p i r n i k e
+1244	SEK 	nose	dɨfɨn		d ɨ f ɨ n
+1245	SK	nose	behvɨl		b e h v ɨ l
+1246	NK	nose	poz		p o z
+1247	SWK	nose	poz		p o z
+1248	NWK	nose	poz		p o z
+2068	Ishkashimi	nose	nits		n i t s
+2113	Zebaki	nose	nits		n i t s
+2189	Pashto	nose	paza		p a z a
+1249	Bakhtiyari	not	na		n a
+1250	Balochi	not	na		n a
+1251	Gilaki	not	ne		n e
+1252	Judeo-Tati	not	neki		n e k i
+1253	Kumzari	not	na		n a
+1254	Modern_Persian	not	na		n a
+1255	Ormuri	not	nak		n a k
+1256	Ossetic_Iron	not	næ	naetae	n æ
+1257	Parachi	not	na		n a
+1258	Shughni	not	na		n a
+1259	Taleshi	not	ni	ne	n i
+1260	Wakhi	not	ne		n e
+1261	Waziri	not	na		n a
+1262	Yaghnobi	not	na		n a
+1263	Zazaki	not	ne	ʧɨʔni	n e
+1264	SEK 	not	nɛ		n ɛ
+1265	SK	not	na		n a
+1266	NK	not	na		n a
+1267	SWK	not	na		n a
+1268	NWK	not	nɔ		n ɔ
+2069	Ishkashimi	not	na	nus	n a
+2114	Zebaki	not	na	nas	n a
+2190	Pashto	not	nah		n a h
+1269	Bakhtiyari	old	kohne	qadimi	k o h n e
+1270	Balochi	old	pʔir		p ʔ i r
+1271	Gilaki	old	pir		p i r
+1272	Judeo-Tati	old	pir	ovil	p i r
+1273	Kumzari	old	kaʔnaʁ	gap	k a ʔ n a ʁ
+1274	Luri	old	pir		p i r
+1275	Modern_Persian	old	pir		p i r
+1276	Ormuri	old	zol		z o l
+1277	Ossetic_Iron	old	zærond		z æ r o n d
+1278	Parachi	old	kona	katʔto	k o n a
+1279	Shughni	old	kina	pir	k i n a
+1280	Taleshi	old	kanə	pi	k a n ə
+1281	Waziri	old	zor		z o r
+1282	Yaghnobi	old	kuhna	qadim	k u h n a
+1283	Zazaki	old	pilʔixtijar		p i l ʔ i x t i j a r
+1284	SEK 	old	kɛwn		k ɛ w n
+1285	SK	old	kɛvɨn		k ɛ v ɨ n
+1286	NK	old	kɛm		k ɛ m
+1287	SWK	old	kævɨn		k æ v ɨ n
+1288	NWK	old	kævɨn		k æ v ɨ n
+2191	Pashto	old	zor	takər	z o r
+1289	Bakhtiyari	one	jak		j a k
+1290	Balochi	one	jak	ja	j a k
+1291	Gilaki	one	jək		j ə k
+1292	Judeo-Tati	one	jek	jeki	j e k
+1293	Kumzari	one	jek		j e k
+1294	Luri	one	jak		j a k
+1295	Modern_Persian	one	jek	hargiz	j e k
+1296	Ormuri	one	ʔe		ʔ e
+1297	Ossetic_Iron	one	iu		i u
+1298	Parachi	one	ʔu		ʔ u
+1299	Shughni	one	jak	jiw	j a k
+1300	Taleshi	one	gɨləʒ		g ɨ l ə ʒ
+1301	Wakhi	one	ji	jiu	j i
+1302	Waziri	one	jo		j o
+1303	Yaghnobi	one	jak		j a k
+1304	Zazaki	one	ʒew		ʒ e w
+1305	SEK 	one	jek		j e k
+1306	SK	one	jɛk		j ɛ k
+1307	NK	one	jɛk		j ɛ k
+1308	SWK	one	jek		j e k
+1309	NWK	one	ek		e k
+2070	Ishkashimi	one	wak		w a k
+2115	Zebaki	one	wok		w o k
+2192	Pashto	one	ju		j u
+1310	Bakhtiyari	rain	baroʔn		b a r o ʔ n
+1311	Balochi	rain	gwaragʔ	gwarta	g w a r a g ʔ
+1312	Gilaki	rain	barʔ		b a r ʔ
+1313	Judeo-Tati	rain	voruʔ		v o r u ʔ
+1314	Kumzari	rain	baram		b a r a m
+1315	Luri	rain	baru		b a r u
+1316	Modern_Persian	rain	baridan		b a r i d a n
+1317	Ormuri	rain	bɒrɨn	ɣor	b ɒ r ɨ n
+1318	Ossetic_Iron	rain	uarɨn	kʔaevda	u a r ɨ n
+1319	Parachi	rain	auʔar	waʔ	a u ʔ a r
+1320	Shughni	rain	borun		b o r u n
+1321	Taleshi	rain	kuluk		k u l u k
+1322	Waziri	rain	waredel		w a r e d e l
+1323	Yaghnobi	rain	borʔn		b o r ʔ n
+1324	Zazaki	rain	varan	yaʔer	v a r a n
+1325	SEK 	rain	baran		b a r a n
+1326	SK	rain	baran		b a r a n
+1327	NK	rain	ʃɨli		ʃ ɨ l i
+1328	SWK	rain	baran		b a r a n
+1329	NWK	rain	bɔrɔn		b ɔ r ɔ n
+2071	Ishkashimi	rain	urnaduk		u r n a d u k
+2193	Pashto	rain	vərja		v ə r j a
+1330	Bakhtiyari	red	sohr		s o h r
+1331	Balochi	red	suhr		s u h r
+1332	Gilaki	red	sorx		s o r x
+1333	Judeo-Tati	red	qirmizni		q i r m i z n i
+1334	Kumzari	red	sirx		s i r x
+1335	Luri	red	germez		g e r m e z
+1336	Modern_Persian	red	sorx		s o r x
+1337	Ormuri	red	ʃuʃ		ʃ u ʃ
+1338	Ossetic_Iron	red	sɨrx		s ɨ r x
+1339	Parachi	red	surxo	surku	s u r x o
+1340	Shughni	red	lola	ruʔt	l o l a
+1341	Taleshi	red	sʔ		s ʔ
+1342	Wakhi	red	sekr		s e k r
+1343	Waziri	red	sir		s i r
+1344	Yaghnobi	red	surx	kimir	s u r x
+1345	Zazaki	red	sur		s u r
+1346	SEK 	red	sor		s o r
+1347	SK	red	sor		s o r
+1348	NK	red	sor		s o r
+1349	SWK	red	sɵr		s ɵ r
+1350	NWK	red	sur		s u r
+2072	Ishkashimi	red	surx		s u r x
+2194	Pashto	red	surx		s u r x
+1351	Bakhtiyari	root	riʔe		r i ʔ e
+1352	Balochi	root	par		p a r
+1353	Gilaki	root	bex	riʃə	b e x
+1354	Judeo-Tati	root	rag		r a g
+1355	Kumzari	root	irq		i r q
+1356	Luri	root	riʔa		r i ʔ a
+1357	Modern_Persian	root	riʔe		r i ʔ e
+1358	Ormuri	root	bex		b e x
+1359	Ossetic_Iron	root	widag		w i d a g
+1360	Parachi	root	bix	kordi	b i x
+1361	Shughni	root	bex	wex	b e x
+1362	Taleshi	root	riʔ		r i ʔ
+1363	Wakhi	root	wiux		w i u x
+1364	Waziri	root	bex	wex	b e x
+1365	Yaghnobi	root	riʔa		r i ʔ a
+1366	Zazaki	root	riʔe		r i ʔ e
+1367	SEK 	root	rɨh		r ɨ h
+1368	SK	root	ɹa		ɹ a
+1369	NK	root	kok		k o k
+1370	SWK	root	kok		k o k
+1371	NWK	root	kok		k o k
+2195	Pashto	root	reʂa	ʤara	r e ʂ a
+1372	Bakhtiyari	rope	tanaf	ʔoreys	t a n a f
+1373	Balochi	rope	rez		r e z
+1374	Gilaki	rope	risman	lafənd	r i s m a n
+1375	Judeo-Tati	rope	rase		r a s e
+1376	Kumzari	rope	baʔn		b a ʔ n
+1377	Luri	rope	band	resmu	b a n d
+1378	Modern_Persian	rope	tanab		t a n a b
+1379	Ormuri	rope	beʃ		b e ʃ
+1380	Ossetic_Iron	rope	baendaen		b a e n d a e n
+1381	Parachi	rope	boʔ		b o ʔ
+1382	Shughni	rope	band	sarband	b a n d
+1383	Taleshi	rope	lofʔnd		l o f ʔ n d
+1384	Wakhi	rope	tunov	derowi	t u n o v
+1385	Yaghnobi	rope	wʔta		w ʔ t a
+1386	Zazaki	rope	resen		r e s e n
+1387	SEK 	rope	bɛndɨk	kɨndɨr	b ɛ n d ɨ k
+1388	SK	rope	ṭa	weris	ṭ a
+1389	NK	rope	bɛnd		b ɛ n d
+1390	SWK	rope	bɛn	kendɨr	b ɛ n
+1391	NWK	rope	bæn	kɨndɨr	b æ n
+2073	Ishkashimi	rope	vuʔ		v u ʔ
+2116	Zebaki	rope	waʔ		w a ʔ
+2196	Pashto	rope	vaʂ	resi	v a ʂ
+1392	Bakhtiyari	run	daʋniden		d a ʋ n i d e n
+1393	Balochi	run	taʧ	tag	t a ʧ
+1394	Gilaki	run	dobəstən	dovəstən	d o b ə s t ə n
+1395	Judeo-Tati	run	virixde	vidovusde	v i r i x d e
+1396	Kumzari	run	burwa		b u r w a
+1397	Modern_Persian	run	dawidan		d a w i d a n
+1398	Ormuri	run	daŋok		d a ŋ o k
+1399	Ossetic_Iron	run	zhorɨn	lidzɨn	z h o r ɨ n
+1400	Parachi	run	dow	hala kan	d o w
+1401	Shughni	run	ʒoz	ʒext	ʒ o z
+1402	Taleshi	run	tɨlə	vite	t ɨ l ə
+1403	Wakhi	run	gafs		g a f s
+1404	Yaghnobi	run	dau		d a u
+1405	Zazaki	run	veʃtiʃ	vazdano	v e ʃ t i ʃ
+1406	SEK 	run	bɛẓin		b ɛ ẓ i n
+1407	SK	run	baz		b a z
+1408	NK	run	ɹɛvin		ɹ ɛ v i n
+1409	SWK	run	ɹɛvin		ɹ ɛ v i n
+1410	NWK	run	bɔz		b ɔ z
+2123	Zebaki	run	gaz	guzd	g a z
+2197	Pashto	run	dzghaledəl	təʂtedəl	d z g h a l e d ə l
+1411	Bakhtiyari	salt	nemek		n e m e k
+1412	Balochi	salt	whadh	wahadh	w h a d h
+1413	Gilaki	salt	ʔur		ʔ u r
+1414	Judeo-Tati	salt	mynyk		m y n y k
+1415	Kumzari	salt	xuwah		x u w a h
+1416	Luri	salt	namak		n a m a k
+1417	Modern_Persian	salt	namak		n a m a k
+1418	Ormuri	salt	nimek		n i m e k
+1419	Ossetic_Iron	salt	tsæx		t s æ x
+1420	Parachi	salt	namo		n a m o
+1421	Shughni	salt	namak		n a m a k
+1422	Taleshi	salt	niʔmek		n i ʔ m e k
+1423	Wakhi	salt	nimuk		n i m u k
+1424	Waziri	salt	molga		m o l g a
+1425	Yaghnobi	salt	namak		n a m a k
+1426	Zazaki	salt	sol		s o l
+1427	SEK 	salt	xe		x e
+1428	SK	salt	xwe		x w e
+1429	NK	salt	xwe		x w e
+1430	SWK	salt	xwe		x w e
+1431	NWK	salt	xwe		x w e
+2074	Ishkashimi	salt	namulgak		n a m u l g a k
+2198	Pashto	salt	malga		m a l g a
+1432	Bakhtiyari	sand	mase		m a s e
+1433	Balochi	sand	rex		r e x
+1434	Gilaki	sand	furʔ		f u r ʔ
+1435	Judeo-Tati	sand	qum		q u m
+1436	Kumzari	sand	diri		d i r i
+1437	Luri	sand	ʔen	masa	ʔ e n
+1438	Modern_Persian	sand	ʔen		ʔ e n
+1439	Ormuri	sand	reg		r e g
+1440	Ossetic_Iron	sand	zmis		z m i s
+1441	Parachi	sand	seʔa		s e ʔ a
+1442	Shughni	sand	ʔoʔ	reg	ʔ o ʔ
+1443	Taleshi	sand	ɣum	huʃ	ɣ u m
+1444	Wakhi	sand	luworc		l u w o r c
+1445	Waziri	sand	ʔegga		ʔ e g g a
+1446	Yaghnobi	sand	reg		r e g
+1447	Zazaki	sand	qum		q u m
+1448	SEK 	sand	xiz		x i z
+1449	SK	sand	qum		q u m
+1450	NK	sand	qum		q u m
+1451	SWK	sand	qum		q u m
+1452	NWK	sand	qum		q u m
+2075	Ishkashimi	sand	reg		r e g
+2199	Pashto	sand	ʃega		ʃ e g a
+1453	Bakhtiyari	say	goden		g o d e n
+1454	Balochi	say	guʔagʔ	gusta	g u ʔ a g ʔ
+1455	Gilaki	say	guftən		g u f t ə n
+1456	Judeo-Tati	say	gufdire		g u f d i r e
+1457	Kumzari	say	gaft		g a f t
+1458	Luri	say	gota		g o t a
+1459	Modern_Persian	say	goftan		g o f t a n
+1460	Ormuri	say	ʔuʔ		ʔ u ʔ
+1461	Ossetic_Iron	say	zæhɨn		z æ h ɨ n
+1462	Parachi	say	ʤar		ʤ a r
+1463	Shughni	say	gap		g a p
+1464	Taleshi	say	vote	əvot	v o t e
+1465	Wakhi	say	xan		x a n
+1466	Waziri	say	wejel		w e j e l
+1467	Yaghnobi	say	wov		w o v
+1468	Zazaki	say	vatiʔ		v a t i ʔ
+1469	SEK 	say	gotɨn		g o t ɨ n
+1470	SK	say	gotɨn		g o t ɨ n
+1471	NK	say	gotɨn		g o t ɨ n
+1472	SWK	say	gotɨn		g o t ɨ n
+1473	NWK	say	gotɨn		g o t ɨ n
+2076	Ishkashimi	say	gez		g e z
+2117	Zebaki	say	gez		g e z
+2200	Pashto	say	guzarəl		g u z a r ə l
+1474	Bakhtiyari	see	diden		d i d e n
+1475	Balochi	see	ditʔa	gindagʔ	d i t ʔ a
+1476	Gilaki	see	deen	fanderəstən	d e e n
+1477	Judeo-Tati	see	vinire		v i n i r e
+1478	Kumzari	see	meʃ		m e ʃ
+1479	Modern_Persian	see	didan		d i d a n
+1480	Ormuri	see	de		d e
+1481	Ossetic_Iron	see	uɨnɨn		u ɨ n ɨ n
+1482	Parachi	see	boʧ	dor	b o ʧ
+1483	Shughni	see	win		w i n
+1484	Taleshi	see	vinde		v i n d e
+1485	Wakhi	see	win		w i n
+1486	Waziri	see	katel	lidel	k a t e l
+1487	Yaghnobi	see	wen		w e n
+1488	Zazaki	see	ditiʔ		d i t i ʔ
+1489	SEK 	see	ditɨn		d i t ɨ n
+1490	SK	see	ditɨn		d i t ɨ n
+1491	NK	see	ditɨn	din	d i t ɨ n
+1492	SWK	see	din		d i n
+1493	NWK	see	din		d i n
+2201	Pashto	see	katə	did	k a t ə
+1494	Bakhtiyari	shade/shadow	sa		s a
+1495	Balochi	shade/shadow	saxeg	sjaxeg	s a x e g
+1496	Gilaki	shade/shadow	sajə		s a j ə
+1497	Judeo-Tati	shade/shadow	soje		s o j e
+1498	Kumzari	shade/shadow	saja		s a j a
+1499	Modern_Persian	shade/shadow	saja		s a j a
+1500	Ormuri	shade/shadow	sjaka		s j a k a
+1501	Ossetic_Iron	shade/shadow	auwon	ændærg	a u w o n
+1502	Parachi	shade/shadow	seʁ		s e ʁ
+1503	Shughni	shade/shadow	soja		s o j a
+1504	Taleshi	shade/shadow	sognə	sovonə	s o g n ə
+1505	Wakhi	shade/shadow	soja		s o j a
+1506	Yaghnobi	shade/shadow	soja	sijoka	s o j a
+1507	Zazaki	shade/shadow	sersej		s e r s e j
+1508	SEK 	shade/shadow	sibɛr		s i b ɛ r
+1509	SK	shade/shadow	sɨh		s ɨ h
+1510	NK	shade/shadow	si		s i
+1511	SWK	shade/shadow	si		s i
+1512	NWK	shade/shadow	si		s i
+2202	Pashto	shade/shadow	saja	ʧa	s a j a
+1513	Bakhtiyari	skin	pust	mart	p u s t
+1514	Balochi	skin	pʔost		p ʔ o s t
+1515	Gilaki	skin	ʧərm	pust	ʧ ə r m
+1516	Judeo-Tati	skin	pusd		p u s d
+1517	Kumzari	skin	post		p o s t
+1518	Luri	skin	pys		p y s
+1519	Modern_Persian	skin	pust		p u s t
+1520	Ormuri	skin	post		p o s t
+1521	Ossetic_Iron	skin	carm		c a r m
+1522	Parachi	skin	pust		p u s t
+1523	Shughni	skin	pust		p u s t
+1524	Taleshi	skin	pystin		p y s t i n
+1525	Wakhi	skin	pist		p i s t
+1526	Waziri	skin	tsarman		t s a r m a n
+1527	Yaghnobi	skin	pust		p u s t
+1528	Zazaki	skin	poste		p o s t e
+1529	SEK 	skin	ʧɛrm		ʧ ɛ r m
+1530	SK	skin	ʧɛrm		ʧ ɛ r m
+1531	NK	skin	ʧɛrm		ʧ ɛ r m
+1532	SWK	skin	ʧɛrm		ʧ ɛ r m
+1533	NWK	skin	ʧɛrm	post	ʧ ɛ r m
+2077	Ishkashimi	skin	kurust	korost	k u r u s t
+2203	Pashto	skin	tsarmən		t s a r m ə n
+1534	Bakhtiyari	small	kocʔir		k o c ʔ i r
+1535	Balochi	small	kik		k i k
+1536	Gilaki	small	kucʔk		k u c ʔ k
+1537	Judeo-Tati	small	ʧykle		ʧ y k l e
+1538	Kumzari	small	ʔik		ʔ i k
+1539	Luri	small	kaʔdy		k a ʔ d y
+1540	Modern_Persian	small	kuʔek		k u ʔ e k
+1541	Ormuri	small	zari		z a r i
+1542	Ossetic_Iron	small	ʧɨsɨl	gyksyl	ʧ ɨ s ɨ l
+1543	Parachi	small	ʔimo		ʔ i m o
+1544	Shughni	small	zalik	zul	z a l i k
+1545	Taleshi	small	gada		g a d a
+1546	Wakhi	small	zuq	zuqiq	z u q
+1547	Waziri	small	kam	kamkai	k a m
+1548	Yaghnobi	small	pula	maʔʔdaak	p u l a
+1549	Zazaki	small	werdi	qiʔ	w e r d i
+1550	SEK 	small	kɨʧkɛ		k ɨ ʧ k ɛ
+1551	SK	small	pɨʧuk		p ɨ ʧ u k
+1552	NK	small	pɨʧuk		p ɨ ʧ u k
+1553	SWK	small	ʧuʧɨk	ʧuk	ʧ u ʧ ɨ k
+1554	NWK	small	ʧuk		ʧ u k
+2078	Ishkashimi	small	kutokok		k u t o k o k
+2118	Zebaki	small	kut		k u t
+2204	Pashto	small	kam		k a m
+1555	Bakhtiyari	smoke	di		d i
+1556	Balochi	smoke	duhon		d u h o n
+1557	Gilaki	smoke	dudʔmana		d u d ʔ m a n a
+1558	Judeo-Tati	smoke	dure		d u r e
+1559	Kumzari	smoke	dur		d u r
+1560	Luri	smoke	dyd		d y d
+1561	Modern_Persian	smoke	dud		d u d
+1562	Ormuri	smoke	dud		d u d
+1563	Ossetic_Iron	smoke	fæzdæg	xʔuaecae	f æ z d æ g
+1564	Parachi	smoke	dhi		d h i
+1565	Shughni	smoke	ʔud		ʔ u d
+1566	Taleshi	smoke	ʔu		ʔ u
+1567	Wakhi	smoke	dit		d i t
+1568	Yaghnobi	smoke	paʔst	dud	p a ʔ s t
+1569	Zazaki	smoke	dun		d u n
+1570	SEK 	smoke	dukɛl		d u k ɛ l
+1571	SK	smoke	duman		d u m a n
+1572	NK	smoke	du		d u
+1573	SWK	smoke	du		d u
+1574	NWK	smoke	tu	tuman	t u
+2079	Ishkashimi	smoke	dit		d i t
+2205	Pashto	smoke	lugaj		l u g a j
+1575	Bakhtiyari	soil	hak		h a k
+1576	Balochi	soil	xak	sorag	x a k
+1577	Gilaki	soil	zəminə		z ə m i n ə
+1578	Judeo-Tati	soil	zimi	xok	z i m i
+1579	Kumzari	soil	pʧal		p ʧ a l
+1580	Modern_Persian	soil	ɣak		ɣ a k
+1581	Ossetic_Iron	soil	zæɣ		z æ ɣ
+1582	Parachi	soil	ken		k e n
+1583	Shughni	soil	ʧidow		ʧ i d o w
+1584	Taleshi	soil	zəmin		z ə m i n
+1585	Yaghnobi	soil	zoj		z o j
+1586	Zazaki	soil	ʕerd		ʕ e r d
+1587	SEK 	soil	ax		a x
+1588	SK	soil	ax		a x
+1589	NK	soil	xwɛli		x w ɛ l i
+1590	SWK	soil	ax		a x
+1591	NWK	soil	ɔx		ɔ x
+2206	Pashto	soil	ɣavra		ɣ a v r a
+1592	Bakhtiyari	stand	ʔastaden		ʔ a s t a d e n
+1593	Balochi	stand	oʔtagʔ	oʔtatʔa	o ʔ t a g ʔ
+1594	Gilaki	stand	es		e s
+1595	Judeo-Tati	stand	vetovusde		v e t o v u s d e
+1596	Kumzari	stand	qawumah	saxo	q a w u m a h
+1597	Luri	stand	vaʔseda	va rosseda	v a ʔ s e d a
+1598	Modern_Persian	stand	istadan		i s t a d a n
+1599	Ormuri	stand	darok	aʃtvek	d a r o k
+1600	Ossetic_Iron	stand	læuuɨn		l æ u u ɨ n
+1601	Parachi	stand	papʔɒ		p a p ʔ ɒ
+1602	Shughni	stand	wirafʔ		w i r a f ʔ
+1603	Taleshi	stand	mande		m a n d e
+1604	Waziri	stand	daredel		d a r e d e l
+1605	Yaghnobi	stand	uʔt		u ʔ t
+1606	Zazaki	stand	mendis	vinderdis	m e n d i s
+1607	SEK 	stand	ɹawɛstan		ɹ a w ɛ s t a n
+1608	SK	stand	sɛkɨnandɨn		s ɛ k ɨ n a n d ɨ n
+1609	NK	stand	sɨkɨnandɨn		s ɨ k ɨ n a n d ɨ n
+1610	SWK	stand	sɛkɨnin		s ɛ k ɨ n i n
+1611	NWK	stand	sækɨnin		s æ k ɨ n i n
+2207	Pashto	stand	daredəl		d a r e d ə l
+1612	Bakhtiyari	star	astare		a s t a r e
+1613	Balochi	star	istar		i s t a r
+1614	Gilaki	star	sʔtar		s ʔ t a r
+1615	Judeo-Tati	star	asdara	astare	a s d a r a
+1616	Kumzari	star	starg		s t a r g
+1617	Luri	star	setara		s e t a r a
+1618	Modern_Persian	star	setare		s e t a r e
+1619	Ormuri	star	stirak		s t i r a k
+1620	Ossetic_Iron	star	scalɨ		s c a l ɨ
+1621	Parachi	star	esteʔ		e s t e ʔ
+1622	Shughni	star	xiterʔ		x i t e r ʔ
+1623	Taleshi	star	astovə		a s t o v ə
+1624	Wakhi	star	stor		s t o r
+1625	Waziri	star	storai		s t o r a i
+1626	Yaghnobi	star	bildiʔa	sitora	b i l d i ʔ a
+1627	Zazaki	star	estare		e s t a r e
+1628	SEK 	star	ster		s t e r
+1629	SK	star	steɹɨk		s t e ɹ ɨ k
+1630	NK	star	hɨsterɨk		h ɨ s t e r ɨ k
+1631	SWK	star	hestɨrk		h e s t ɨ r k
+1632	NWK	star	ɨstɛwrɨk		ɨ s t ɛ w r ɨ k
+2080	Ishkashimi	star	struk		s t r u k
+2119	Zebaki	star	sitara		s i t a r a
+2208	Pashto	star	sitara		s i t a r a
+1633	Bakhtiyari	stone	bard	kocʔok	b a r d
+1634	Balochi	stone	xoh		x o h
+1635	Gilaki	stone	səʔ		s ə ʔ
+1636	Judeo-Tati	stone	senq		s e n q
+1637	Kumzari	stone	raʔg		r a ʔ g
+1638	Luri	stone	saʔ	kolom	s a ʔ
+1639	Modern_Persian	stone	saʔ		s a ʔ
+1640	Ormuri	stone	gap		g a p
+1641	Ossetic_Iron	stone	dur		d u r
+1642	Parachi	stone	gir		g i r
+1643	Shughni	stone	saʔ	ʔir	s a ʔ
+1644	Taleshi	stone	sʔg		s ʔ g
+1645	Wakhi	stone	gʔar		g ʔ a r
+1646	Waziri	stone	konrai	tiʒa	k o n r a i
+1647	Yaghnobi	stone	saʔk		s a ʔ k
+1648	Zazaki	stone	ʔi		ʔ i
+1649	SEK 	stone	bɛr		b ɛ r
+1650	SK	stone	kɛvɨr		k ɛ v ɨ r
+1651	NK	stone	kɛvɨr		k ɛ v ɨ r
+1652	SWK	stone	kævɨr		k æ v ɨ r
+1653	NWK	stone	kævɨr		k æ v ɨ r
+2081	Ishkashimi	stone	suʔ		s u ʔ
+2209	Pashto	stone	dabara	sɣar	d a b a r a
+1654	Bakhtiyari	suck	mekeniden		m e k e n i d e n
+1655	Balochi	suck	miʔagʔ	mixta	m i ʔ a g ʔ
+1656	Gilaki	suck	fuduʃtən	məkəstən	f u d u ʃ t ə n
+1657	Judeo-Tati	suck	keʃire	nene xurde	k e ʃ i r e
+1658	Kumzari	suck	massa		m a s s a
+1659	Modern_Persian	suck	mekidan		m e k i d a n
+1660	Ossetic_Iron	suck	dæjɨn	cʔiryn	d æ j ɨ n
+1661	Shughni	suck	sipaf		s i p a f
+1662	Taleshi	suck	die	lɨʃte	d i e
+1663	Wakhi	suck	sup		s u p
+1664	Waziri	suck	ravdel		r a v d e l
+1665	Yaghnobi	suck	zimak	diy	z i m a k
+1666	Zazaki	suck	antiʃ	banʤi	a n t i ʃ
+1667	SEK 	suck	metɨn		m e t ɨ n
+1668	SK	suck	mɨʒandɨn		m ɨ ʒ a n d ɨ n
+1669	NK	suck	mɨʒandɨn		m ɨ ʒ a n d ɨ n
+1670	SWK	suck	mɨʒin	mɨʒandɨn	m ɨ ʒ i n
+1671	NWK	suck	mɨtin	mɨʒin	m ɨ t i n
+2210	Pashto	suck	zbeʂəl		z b e ʂ ə l
+1672	Bakhtiyari	sweet	ʃirin		ʃ i r i n
+1673	Balochi	sweet	ʃiren	ʃirken	ʃ i r e n
+1674	Gilaki	sweet	ʃirin		ʃ i r i n
+1675	Judeo-Tati	sweet	ʃirin		ʃ i r i n
+1676	Kumzari	sweet	ʃirin		ʃ i r i n
+1677	Modern_Persian	sweet	ʃirin		ʃ i r i n
+1678	Ormuri	sweet	xwaʃ		x w a ʃ
+1679	Ossetic_Iron	sweet	adʤɨn		a d ʤ ɨ n
+1680	Parachi	sweet	ʃirɨn	xiro	ʃ i r ɨ n
+1681	Shughni	sweet	ʃirin	xiʒ	ʃ i r i n
+1682	Taleshi	sweet	ʃin		ʃ i n
+1683	Wakhi	sweet	ɣuʒg		ɣ u ʒ g
+1684	Yaghnobi	sweet	ʃirin		ʃ i r i n
+1685	Zazaki	sweet	ʃirin		ʃ i r i n
+1686	SEK 	sweet	ʃɨrin		ʃ ɨ r i n
+1687	SK	sweet	ʃirin		ʃ i r i n
+1688	NK	sweet	ʃirin		ʃ i r i n
+1689	SWK	sweet	ʃirɨn		ʃ i r ɨ n
+1690	NWK	sweet	ʃirin		ʃ i r i n
+2095	Ishkashimi	sweet	ɣaʒok		ɣ a ʒ o k
+2211	Pashto	sweet	ʃirin		ʃ i r i n
+1691	Bakhtiyari	tail	din		d i n
+1692	Balochi	tail	dumb		d u m b
+1693	Gilaki	tail	dum		d u m
+1694	Judeo-Tati	tail	dym		d y m
+1695	Kumzari	tail	dum		d u m
+1696	Luri	tail	dom		d o m
+1697	Modern_Persian	tail	dom		d o m
+1698	Ormuri	tail	dumb		d u m b
+1699	Ossetic_Iron	tail	dɨmæg		d ɨ m æ g
+1700	Parachi	tail	doʔund		d o ʔ u n d
+1701	Shughni	tail	dum		d u m
+1702	Taleshi	tail	dum		d u m
+1703	Wakhi	tail	kicikam		k i c i k a m
+1704	Waziri	tail	lakai		l a k a i
+1705	Yaghnobi	tail	dym	dumba	d y m
+1706	Zazaki	tail	poʔ		p o ʔ
+1707	SEK 	tail	dylɨk		d y l ɨ k
+1708	SK	tail	duv		d u v
+1709	NK	tail	boʧɨk	del	b o ʧ ɨ k
+1710	SWK	tail	boʧ	du	b o ʧ
+1711	NWK	tail	doʧɨk		d o ʧ ɨ k
+2082	Ishkashimi	tail	dumb		d u m b
+2212	Pashto	tail	lakəj		l a k ə j
+1712	Bakhtiyari	take	gerejden	ʋordaʃten	g e r e j d e n
+1713	Balochi	take	zurag	barag	z u r a g
+1714	Gilaki	take	giftən	usadən	g i f t ə n
+1715	Judeo-Tati	take	vegirde	vegyrde	v e g i r d e
+1716	Kumzari	take	gir		g i r
+1717	Modern_Persian	take	giriftan		g i r i f t a n
+1718	Ormuri	take	wur		w u r
+1719	Ossetic_Iron	take	isɨn	widzɨn	i s ɨ n
+1720	Shughni	take	zez	pard͡ʒiv	z e z
+1721	Taleshi	take	pegəte	gət	p e g ə t e
+1722	Wakhi	take	durz		d u r z
+1723	Yaghnobi	take	barde	nos	b a r d e
+1724	Zazaki	take	berdiʃ		b e r d i ʃ
+1725	SEK 	take	bɨrɨn		b ɨ r ɨ n
+1726	SK	take	bɨrɨn		b ɨ r ɨ n
+1727	NK	take	bɨrɨn		b ɨ r ɨ n
+1728	SWK	take	bɨrɨn		b ɨ r ɨ n
+1729	NWK	take	bɨrɨn		b ɨ r ɨ n
+2100	Ishkashimi	take	zanz		z a n z
+2124	Zebaki	take	zagd	PST	z a g d
+2213	Pashto	take	aɣistəl	nivəl	a ɣ i s t ə l
+1730	Bakhtiyari	thick	koloft	cʔaq	k o l o f t
+1731	Balochi	thick	tʔular		t ʔ u l a r
+1732	Gilaki	thick	kuluft		k u l u f t
+1733	Judeo-Tati	thick	qolind		q o l i n d
+1734	Kumzari	thick	saχt		s a χ t
+1735	Luri	thick	koloft	got	k o l o f t
+1736	Modern_Persian	thick	koloft		k o l o f t
+1737	Ossetic_Iron	thick	stavd		s t a v d
+1738	Parachi	thick	estoro		e s t o r o
+1739	Shughni	thick	farbijaki		f a r b i j a k i
+1740	Taleshi	thick	koloft		k o l o f t
+1741	Wakhi	thick	baʔ		b a ʔ
+1742	Waziri	thick	gʔwut		g ʔ w u t
+1743	Yaghnobi	thick	gafs	farbi	g a f s
+1744	Zazaki	thick	qalin		q a l i n
+1745	SEK 	thick	styr		s t y r
+1746	SK	thick	qalɨn	stur	q a l ɨ n
+1747	NK	thick	qałɨnd		q a ł ɨ n d
+1748	SWK	thick	qalɨng		q a l ɨ n g
+1749	NWK	thick	qalɨng		q a l ɨ n g
+2214	Pashto	thick	tət		t ə t
+1750	Bakhtiyari	thigh	roʋn		r o ʋ n
+1751	Balochi	thigh	ran	ripag	r a n
+1752	Gilaki	thigh	kəpəl	ran	k ə p ə l
+1753	Judeo-Tati	thigh	kefel	bud	k e f e l
+1754	Kumzari	thigh	binʤ		b i n ʤ
+1755	Modern_Persian	thigh	ran		r a n
+1756	Ormuri	thigh	ron	langɛi	r o n
+1757	Ossetic_Iron	thigh	ahd	sin	a h d
+1758	Parachi	thigh	ron		r o n
+1759	Shughni	thigh	biʃtun	bixtun	b i ʃ t u n
+1760	Taleshi	thigh	ʃevək		ʃ e v ə k
+1761	Wakhi	thigh	ron		r o n
+1762	Yaghnobi	thigh	ron		r o n
+1763	Zazaki	thigh	gohm		g o h m
+1764	SEK 	thigh	qalʧɛ		q a l ʧ ɛ
+1765	SK	thigh	kɛlɛf		k ɛ l ɛ f
+1766	NK	thigh	het		h e t
+1767	SWK	thigh	qałʧɛ		q a ł ʧ ɛ
+1768	NWK	thigh	qalʧɛ		q a l ʧ ɛ
+2096	Ishkashimi	thigh	satɣan		s a t ɣ a n
+2215	Pashto	thigh	vrun		v r u n
+1769	Bakhtiyari	this	i		i
+1770	Balochi	this	iʃ		i ʃ
+1771	Gilaki	this	ha	an	h a
+1772	Judeo-Tati	this	i		i
+1773	Kumzari	this	ijah		i j a h
+1774	Luri	this	ʔde	 ʔe	ʔ d e
+1775	Modern_Persian	this	in		i n
+1776	Ormuri	this	aɸo		a ɸ o
+1777	Ossetic_Iron	this	u	asǝ	u
+1778	Parachi	this	e		e
+1779	Shughni	this	jam	mam	j a m
+1780	Taleshi	this	ɨm		ɨ m
+1781	Wakhi	this	jem	haeiem	j e m
+1782	Waziri	this	dai	dagʔa	d a i
+1783	Yaghnobi	this	iʔ		i ʔ
+1784	Zazaki	this	na	nɛ	n a
+1785	SEK 	this	ɛw		ɛ w
+1786	SK	this	ɛv	ɛw	ɛ v
+1787	NK	this	ɛv	ɛw	ɛ v
+1788	SWK	this	va	hɛw	v a
+1789	NWK	this	æv	æw	æ v
+2083	Ishkashimi	this	nakavi		n a k a v i
+2120	Zebaki	this	am		a m
+2216	Pashto	this	da		d a
+1790	Bakhtiyari	tie	gerej		g e r e j
+1791	Balochi	tie	bandagʔ	bastʔa	b a n d a g ʔ
+1792	Gilaki	tie	bʔst		b ʔ s t
+1793	Judeo-Tati	tie	debesd		d e b e s d
+1794	Kumzari	tie	abn	ebn	a b n
+1795	Luri	tie	bassa		b a s s a
+1796	Modern_Persian	tie	bastan		b a s t a n
+1797	Ormuri	tie	tarok		t a r o k
+1798	Ossetic_Iron	tie	battɨn		b a t t ɨ n
+1799	Shughni	tie	vind		v i n d
+1800	Taleshi	tie	bend		b e n d
+1801	Wakhi	tie	vund		v u n d
+1802	Waziri	tie	tarel		t a r e l
+1803	Yaghnobi	tie	vant		v a n t
+1804	Zazaki	tie	bestiʔ		b e s t i ʔ
+1805	SEK 	tie	gɨredan		g ɨ r e d a n
+1806	SK	tie	gɨredan		g ɨ r e d a n
+1807	NK	tie	gɨredan		g ɨ r e d a n
+1808	SWK	tie	gɨredan		g ɨ r e d a n
+1809	NWK	tie	gɨredɔn		g ɨ r e d ɔ n
+2217	Pashto	tie	tarəl		t a r ə l
+1810	Bakhtiyari	tongue	zoʔn		z o ʔ n
+1811	Balochi	tongue	zawan		z a w a n
+1812	Gilaki	tongue	zʔban		z ʔ b a n
+1813	Judeo-Tati	tongue	zuhun		z u h u n
+1814	Kumzari	tongue	zuwan		z u w a n
+1815	Luri	tongue	zabu		z a b u
+1816	Modern_Persian	tongue	zaban		z a b a n
+1817	Ormuri	tongue	zuban		z u b a n
+1818	Ossetic_Iron	tongue	ɜvzag 		ɜ v z a g
+1819	Parachi	tongue	zubon		z u b o n
+1820	Shughni	tongue	lavz	ziv	l a v z
+1821	Taleshi	tongue	zɨvon		z ɨ v o n
+1822	Wakhi	tongue	zik		z i k
+1823	Waziri	tongue	ʒebba		ʒ e b b a
+1824	Yaghnobi	tongue	zivok	zabon	z i v o k
+1825	Zazaki	tongue	ziwan		z i w a n
+1826	SEK 	tongue	ʕɛzman		ʕ ɛ z m a n
+1827	SK	tongue	zɨman		z ɨ m a n
+1828	NK	tongue	zɨman		z ɨ m a n
+1829	SWK	tongue	zɨman		z ɨ m a n
+1830	NWK	tongue	zɨmɔn		z ɨ m ɔ n
+2084	Ishkashimi	tongue	zivuk		z i v u k
+2125	Zebaki	tongue	zevuk		z e v u k
+2218	Pashto	tongue	zaban		z a b a n
+1831	Bakhtiyari	tooth	dendoʔn		d e n d o ʔ n
+1832	Balochi	tooth	datʔan		d a t ʔ a n
+1833	Gilaki	tooth	dʔndan		d ʔ n d a n
+1834	Judeo-Tati	tooth	dendu		d e n d u
+1835	Kumzari	tooth	dnan		d n a n
+1836	Luri	tooth	dudu		d u d u
+1837	Modern_Persian	tooth	dandan		d a n d a n
+1838	Ormuri	tooth	giʔi		g i ʔ i
+1839	Ossetic_Iron	tooth	daendag		d a e n d a g
+1840	Parachi	tooth	danon		d a n o n
+1841	Shughni	tooth	dindun		d i n d u n
+1842	Taleshi	tooth	dondun		d o n d u n
+1843	Wakhi	tooth	denduk		d e n d u k
+1844	Waziri	tooth	gʔwoʔ	gʔoʔ	g ʔ w o ʔ
+1845	Yaghnobi	tooth	dindak		d i n d a k
+1846	Zazaki	tooth	dindan		d i n d a n
+1847	SEK 	tooth	dɨdan		d ɨ d a n
+1848	SK	tooth	dɨnan		d ɨ n a n
+1849	NK	tooth	dɨran		d ɨ r a n
+1850	SWK	tooth	dɨran		d ɨ r a n
+1851	NWK	tooth	dɨdon		d ɨ d o n
+2085	Ishkashimi	tooth	dand		d a n d
+2126	Zebaki	tooth	dandak		d a n d a k
+2219	Pashto	tooth	ghaʂ		g h a ʂ
+1852	Bakhtiyari	water	aʔ		a ʔ
+1853	Balochi	water	af		a f
+1854	Gilaki	water	ab		a b
+1855	Judeo-Tati	water	ʔov		ʔ o v
+1856	Kumzari	water	hau		h a u
+1857	Luri	water	ʔaw		ʔ a w
+1858	Modern_Persian	water	ab		a b
+1859	Ormuri	water	waʔk		w a ʔ k
+1860	Ossetic_Iron	water	don		d o n
+1861	Parachi	water	owʔ		o w ʔ
+1862	Shughni	water	xac		x a c
+1863	Taleshi	water	ob		o b
+1864	Wakhi	water	jupk		j u p k
+1865	Waziri	water	ebo		e b o
+1866	Yaghnobi	water	op		o p
+1867	Zazaki	water	aw		a w
+1868	SEK 	water	aw		a w
+1869	SK	water	av		a v
+1870	NK	water	av		a v
+1871	SWK	water	av		a v
+1872	NWK	water	ɔv		ɔ v
+2086	Ishkashimi	water	wek		w e k
+2127	Zebaki	water	wek		w e k
+2220	Pashto	water	avba		a v b a
+1873	Bakhtiyari	what?	ʧe	cʔen	ʧ e
+1874	Balochi	what?	kitʔan		k i t ʔ a n
+1875	Gilaki	what?	ʧi		ʧ i
+1876	Judeo-Tati	what?	ʧy		ʧ y
+1877	Kumzari	what?	ʧe		ʧ e
+1878	Luri	what?	ce	ci	c e
+1879	Modern_Persian	what?	ʔe		ʔ e
+1880	Ormuri	what?	tsa		t s a
+1881	Ossetic_Iron	what?	tsɨ		t s ɨ
+1882	Parachi	what?	ʔe		ʔ e
+1883	Shughni	what?	ca		c a
+1884	Taleshi	what?	ʧiʧ		ʧ i ʧ
+1885	Wakhi	what?	ciz	ciciz	c i z
+1886	Waziri	what?	tse		t s e
+1887	Yaghnobi	what?	ʔo		ʔ o
+1888	Zazaki	what?	ʔiʔi		ʔ i ʔ i
+1889	SEK 	what?	ʧɨ		ʧ ɨ
+1890	SK	what?	ʧɨ		ʧ ɨ
+1891	NK	what?	ʧɨ		ʧ ɨ
+1892	SWK	what?	ʧɨ		ʧ ɨ
+1893	NWK	what?	ʧɨ		ʧ ɨ
+2087	Ishkashimi	what?	ciz		c i z
+2128	Zebaki	what?	tsiz		t s i z
+2221	Pashto	what?	tsa		t s a
+1894	Bakhtiyari	who?	kej		k e j
+1895	Balochi	who?	kitʔan		k i t ʔ a n
+1896	Gilaki	who?	ki		k i
+1897	Judeo-Tati	who?	ki		k i
+1898	Kumzari	who?	ke		k e
+1899	Luri	who?	ke	ki	k e
+1900	Modern_Persian	who?	ki		k i
+1901	Ormuri	who?	kok		k o k
+1902	Ossetic_Iron	who?	ci	citae	c i
+1903	Parachi	who?	ki		k i
+1904	Shughni	who?	ʧaj		ʧ a j
+1905	Taleshi	who?	ki		k i
+1906	Wakhi	who?	kui		k u i
+1907	Waziri	who?	tsok		t s o k
+1908	Yaghnobi	who?	ka	kax	k a
+1909	Zazaki	who?	kam		k a m
+1910	SEK 	who?	ke		k e
+1911	SK	who?	ki	ke	k i
+1912	NK	who?	ki		k i
+1913	SWK	who?	ki	ke	k i
+1914	NWK	who?	khi	kɛ	k h i
+2088	Ishkashimi	who?	kudum		k u d u m
+2129	Zebaki	who?	kai		k a i
+2222	Pashto	who?	tsuk		t s u k
+1915	Bakhtiyari	wide	pahn	feraq	p a h n
+1916	Balochi	wide	prah		p r a h
+1917	Gilaki	wide	pan		p a n
+1918	Judeo-Tati	wide	fireh		f i r e h
+1919	Kumzari	wide	paʔn		p a ʔ n
+1920	Modern_Persian	wide	pahn	goʔad	p a h n
+1921	Ormuri	wide	pan		p a n
+1922	Ossetic_Iron	wide	fætæn	wæræx	f æ t æ n
+1923	Shughni	wide	daxt	firox	d a x t
+1924	Taleshi	wide	pan	hevuʒ	p a n
+1925	Wakhi	wide	pam	ferux	p a m
+1926	Waziri	wide	plan		p l a n
+1927	Yaghnobi	wide	jaxt	pahm	j a x t
+1928	Zazaki	wide	hera		h e r a
+1929	SEK 	wide	fɨrɛ		f ɨ r ɛ
+1930	SK	wide	fɛɹɛh		f ɛ ɹ ɛ h
+1931	NK	wide	fɨrɛ		f ɨ r ɛ
+1932	SWK	wide	fɛrɛ		f ɛ r ɛ
+1933	NWK	wide	fɛrɛ		f ɛ r ɛ
+2089	Ishkashimi	wide	pam		p a m
+2223	Pashto	wide	praɣ		p r a ɣ
+1934	Bakhtiyari	wind	bad		b a d
+1935	Balochi	wind	go		g o
+1936	Gilaki	wind	bad		b a d
+1937	Judeo-Tati	wind	vor	kulok	v o r
+1938	Kumzari	wind	kawl		k a w l
+1939	Luri	wind	bad		b a d
+1940	Modern_Persian	wind	bad		b a d
+1941	Ormuri	wind	bad		b a d
+1942	Ossetic_Iron	wind	dɨmgæ	uad	d ɨ m g æ
+1943	Parachi	wind	dhaman		d h a m a n
+1944	Shughni	wind	ʔamol	xuʔ	ʔ a m o l
+1945	Taleshi	wind	vu		v u
+1946	Wakhi	wind	semol	duma	s e m o l
+1947	Waziri	wind	bod		b o d
+1948	Yaghnobi	wind	wot	bʔda	w o t
+1949	Zazaki	wind	va		v a
+1950	SEK 	wind	ba		b a
+1951	SK	wind	ba		b a
+1952	NK	wind	bā		b ā
+1953	SWK	wind	ba		b a
+1954	NWK	wind	bɔ		b ɔ
+2224	Pashto	wind	bad		b a d
+1955	Bakhtiyari	wing	bal		b a l
+1956	Balochi	wing	pʔar		p ʔ a r
+1957	Gilaki	wing	bal	pər	b a l
+1958	Judeo-Tati	wing	qanet		q a n e t
+1959	Kumzari	wing	ʤnah		ʤ n a h
+1960	Luri	wing	fal	bal	f a l
+1961	Modern_Persian	wing	par		p a r
+1962	Ormuri	wing	bal		b a l
+1963	Ossetic_Iron	wing	bazɨr		b a z ɨ r
+1964	Parachi	wing	bol		b o l
+1965	Shughni	wing	par		p a r
+1966	Taleshi	wing	kəʃ		k ə ʃ
+1967	Wakhi	wing	tup		t u p
+1968	Waziri	wing	wazar	par	w a z a r
+1969	Yaghnobi	wing	par	wanot	p a r
+1970	Zazaki	wing	perʔ		p e r ʔ
+1971	SEK 	wing	pɛɹ		p ɛ ɹ
+1972	SK	wing	pɛɹ		p ɛ ɹ
+1973	NK	wing	pɛɹ	bask	p ɛ ɹ
+1974	SWK	wing	pil	bask	p i l
+1975	NWK	wing	pɨl		p ɨ l
+2225	Pashto	wing	vazar	kawtsar	v a z a r
+1976	Bakhtiyari	wood	ler		l e r
+1977	Balochi	wood	ladh		l a d h
+1978	Gilaki	wood	dar	dərəxt	d a r
+1979	Judeo-Tati	wood	viʔe		v i ʔ e
+1980	Kumzari	wood	loh		l o h
+1981	Luri	wood	ʔaʔal	ʔaʔale kaʔʔdy	ʔ a ʔ a l
+1982	Modern_Persian	wood	ʔaʔal		ʔ a ʔ a l
+1983	Ormuri	wood	pom		p o m
+1984	Ossetic_Iron	wood	xʔaed		x ʔ a e d
+1985	Shughni	wood	diraxtzor	ʔaʔal	d i r a x t z o r
+1986	Taleshi	wood	viʔa		v i ʔ a
+1987	Waziri	wood	zaʔal		z a ʔ a l
+1988	Zazaki	wood	roʔʃəno	gəm	r o ʔ ʃ ə n o
+1989	SEK 	wood	dar		d a r
+1990	SK	wood	dar		d a r
+1991	NK	wood	dar		d a r
+1992	SWK	wood	dar		d a r
+1993	NWK	wood	dɔr		d ɔ r
+2226	Pashto	wood	largaj	pəkər	l a r g a j
+1994	Bakhtiyari	yesterday	duʃ		d u ʃ
+1995	Balochi	yesterday	dinax		d i n a x
+1996	Gilaki	yesterday	diruz		d i r u z
+1997	Judeo-Tati	yesterday	di	ʃovu	d i
+1998	Kumzari	yesterday	duʃin		d u ʃ i n
+1999	Modern_Persian	yesterday	diruz		d i r u z
+2000	Ormuri	yesterday	pran	bego	p r a n
+2001	Ossetic_Iron	yesterday	znon	ændæræbon	z n o n
+2002	Parachi	yesterday	aze		a z e
+2003	Shughni	yesterday	bijor		b i j o r
+2004	Taleshi	yesterday	zinə	pəjnə	z i n ə
+2005	Wakhi	yesterday	jez		j e z
+2006	Yaghnobi	yesterday	pijon		p i j o n
+2007	Zazaki	yesterday	vizer		v i z e r
+2008	SEK 	yesterday	duhu	(ne)	d u h u
+2009	SK	yesterday	duho		d u h o
+2010	NK	yesterday	do		d o
+2011	SWK	yesterday	dɨhu		d ɨ h u
+2012	NWK	yesterday	do		d o
+2101	Ishkashimi	yesterday	paruzd		p a r u z d
+2227	Pashto	yesterday	parun		p a r u n
