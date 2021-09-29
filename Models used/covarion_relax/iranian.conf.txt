@@ -1,0 +1,10 @@
+[admin]
+basename=iranian
+log_params=True
+[mcmc]
+chainlength=20000000
+[model lexicon]
+model=covarion
+data=iranian_data.csv
+[clock lexicon]
+type = relaxed

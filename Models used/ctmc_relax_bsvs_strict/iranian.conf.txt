@@ -1,0 +1,17 @@
+[admin]
+basename=iranian
+log_params=True
+[mcmc]
+chainlength=20000000
+[model lexicon]
+model=binaryctmc
+data=iranian_data.csv
+binarised=False
+[clock lexicon]
+type = relaxed
+[model typology]
+model=bsvs
+svsprior=exponential
+data=Typological_features_31_08.csv
+rate_variation=True
+symmetric=False
